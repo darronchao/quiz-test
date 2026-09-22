@@ -230,11 +230,37 @@ const ZHUYIN_DICT = {
 };
 
 const isZhuyinOn = () => !store.settings || store.settings.zhuyin !== false;
+function formatZhuyinRt(zy) {
+  let tone = '';
+  let syms = '';
+  let isLight = false;
+
+  for (const ch of zy) {
+    if (ch === '˙') {
+      isLight = true;
+    } else if ('ˊˇˋ'.includes(ch)) {
+      tone = ch;
+    } else {
+      syms += ch;
+    }
+  }
+
+  const symsHtml = Array.from(syms).map((s) => `<span>${s}</span>`).join('');
+  if (isLight) {
+    return `<rt class="zy-rt"><span class="zy-col"><span class="zy-light">˙</span>${symsHtml}</span></rt>`;
+  }
+  if (tone) {
+    const toneClass = tone === 'ˊ' ? 'tone-2' : tone === 'ˇ' ? 'tone-3' : 'tone-4';
+    return `<rt class="zy-rt"><span class="zy-col">${symsHtml}</span><span class="zy-tone ${toneClass}">${tone}</span></rt>`;
+  }
+  return `<rt class="zy-rt"><span class="zy-col">${symsHtml}</span></rt>`;
+}
+
 function withZhuyin(str) {
   if (!isZhuyinOn()) return esc(str);
   return esc(str).replace(/[\u4e00-\u9fff]/g, (ch) => {
     const zy = ZHUYIN_DICT[ch];
-    return zy ? `<ruby>${ch}<rt>${zy}</rt></ruby>` : ch;
+    return zy ? `<ruby class="zy">${ch}${formatZhuyinRt(zy)}</ruby>` : ch;
   });
 }
 // 解析顯示用:在「。/；後面的 (A)-(D) 選項分析」與「記憶點」前斷行並加粗,把長段落變條列(不動資料)
