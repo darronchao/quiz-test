@@ -42,12 +42,12 @@
     <p>都是靜態檔放在 GitHub Pages,任何網域的前端可直接 <code>fetch</code>,免後端、免金鑰。</p>
     <table>
       <tr><th>資源</th><th>網址</th></tr>
-      <tr><td>題庫</td><td>https://yazelin.github.io/ipas-ai-quiz/questions.json</td></tr>
-      <tr><td>每日觀念卡</td><td>https://yazelin.github.io/ipas-ai-quiz/concepts.json</td></tr>
-      <tr><td>考試日期</td><td>https://yazelin.github.io/ipas-ai-quiz/exam-dates.json</td></tr>
-      <tr><td>帶圖題的圖</td><td>https://yazelin.github.io/ipas-ai-quiz/assets/&lt;題目 id&gt;.webp</td></tr>
+      <tr><td>題庫</td><td>https://darronchao.github.io/quiz-test/questions.json</td></tr>
+      <tr><td>每日觀念卡</td><td>https://darronchao.github.io/quiz-test/concepts.json</td></tr>
+      <tr><td>考試日期</td><td>https://darronchao.github.io/quiz-test/exam-dates.json</td></tr>
+      <tr><td>帶圖題的圖</td><td>https://darronchao.github.io/quiz-test/assets/&lt;題目 id&gt;.webp</td></tr>
     </table>
-    <p class="muted">完整欄位說明見 <a href="https://github.com/yazelin/ipas-ai-quiz/blob/master/AGENTS.md" target="_blank" rel="noopener">AGENTS.md</a>。</p>
+    <p class="muted">完整欄位說明見 <a href="https://github.com/darronchao/quiz-test/blob/master/AGENTS.md" target="_blank" rel="noopener">AGENTS.md</a>。</p>
   </div>
 
   <h2>② 複製這段 prompt 給你的 AI</h2>
@@ -59,7 +59,7 @@
     <pre id="prompt">幫我做一個 iPAS「AI 應用規劃師」線上刷題練習網頁。題庫是公開的 JSON,請直接用 fetch 抓,不要自己編題目或答案。
 
 資料來源(已開 CORS,可直接跨網域 fetch):
-https://yazelin.github.io/ipas-ai-quiz/questions.json
+https://darronchao.github.io/quiz-test/questions.json
 
 題庫格式:
 {
@@ -74,7 +74,7 @@ https://yazelin.github.io/ipas-ai-quiz/questions.json
       "subject": "科目1：人工智慧基礎概論",
       "chapter": "機器學習",
       "source": "學習指引",                              // 缺省=歷屆考古題;"學習指引"=官方範例
-      "image": "assets/xxx.webp"                         // 選填;網址 = https://yazelin.github.io/ipas-ai-quiz/ + 這個值
+      "image": "assets/xxx.webp"                         // 選填;網址 = https://darronchao.github.io/quiz-test/ + 這個值
     }
   ]
 }
@@ -119,7 +119,7 @@ https://yazelin.github.io/ipas-ai-quiz/questions.json
     <p>程式碼 MIT(林亞澤)。題幹為 iPAS 官方公告試題與學習指引(著作權屬官方);歷屆題解析為本站原創、學習指引題之解析屬官方。<strong>串接或散布前請自行確認官方重製條款。</strong></p>
   </div>
 
-  <p class="muted"><a href="./">← 回練習站</a> · <a href="https://github.com/yazelin/ipas-ai-quiz" target="_blank" rel="noopener">GitHub 原始碼</a></p>
+  <p class="muted"><a href="./">← 回練習站</a> · <a href="https://github.com/darronchao/quiz-test" target="_blank" rel="noopener">GitHub 原始碼</a></p>
 </main>
 <script>
   document.getElementById('copy').onclick = async () => {

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yazelin.github.io/ipas-ai-quiz/sitemap.xml
+Sitemap: https://darronchao.github.io/quiz-test/sitemap.xml

@@ -1,7 +1,7 @@
 // 離線快取:app shell + 題庫。stale-while-revalidate(先給快取、背景更新)。
 // 改版要更新快取時,把 CACHE 版號 +1。
 
-const CACHE = "ipas-v60";
+const CACHE = "quiz-test-v1";
 const SHELL = ['./', 'index.html', 'build.html', 'app.js', 'core.js', 'manifest.json', 'favicon.svg', 'questions.json', 'concepts.json', 'exam-dates.json', 'icon-192.png', 'icon-512.png'];
 
 self.addEventListener('install', (e) => {
@@ -20,11 +20,11 @@ self.addEventListener('install', (e) => {
 self.addEventListener('activate', (e) => {
   // 只清自己的 ipas-*:CacheStorage 是 per-origin,yazelin.github.io 所有專案共用同一份,
   // 無差別刪會把 gewu 的 33MB、neko 等別站的離線包整包清掉,而且毫無徵兆。
-  e.waitUntil(caches.keys().then((ks) => Promise.all(ks.filter((k) => k.startsWith('ipas-') && k !== CACHE).map((k) => caches.delete(k)))).then(() => self.clients.claim()));
+  e.waitUntil(caches.keys().then((ks) => Promise.all(ks.filter((k) => k.startsWith('quiz-test-') && k !== CACHE).map((k) => caches.delete(k)))).then(() => self.clients.claim()));
 });
 // 推播:顯示通知
 self.addEventListener('push', (e) => {
-  let d = { title: 'iPAS 模考', body: '來刷幾題吧!', url: '/' };
+  let d = { title: 'elementary english', body: '來刷幾題吧!', url: '/' };
   try { d = { ...d, ...e.data.json() }; } catch {}
   e.waitUntil(self.registration.showNotification(d.title, { body: d.body, icon: 'icon-192.png', badge: 'icon-192.png', data: { url: d.url } }));
 });

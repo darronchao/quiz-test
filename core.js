@@ -72,7 +72,7 @@ export function wrongQuestionIds(questions, progress) {
 }
 
 // 把「有星標或有筆記」的題 + 解析 + 筆記整理成 markdown,供匯出。
-export function toMarkdown(questions, progress, title = 'iPAS 筆記') {
+export function toMarkdown(questions, progress, title = 'elementary english筆記') {
   const lines = [`# ${title}`, ''];
   let n = 0;
   for (const q of questions) {

@@ -1,0 +1,6852 @@
+[
+  {
+    "voc": "a",
+    "category_E": "Articles & determiners",
+    "category_C": "冠詞/限定詞",
+    "POS": "冠詞",
+    "Chinese": "一個",
+    "remarks": null,
+    "mp3_file": "a.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "about",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "1. 大約；2. 關於...",
+    "remarks": null,
+    "mp3_file": "about.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "actor",
+    "category_E": "Occupations",
+    "category_C": "工作",
+    "POS": "名詞",
+    "Chinese": "男演員",
+    "remarks": null,
+    "mp3_file": "actor.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "actress",
+    "category_E": "Occupations",
+    "category_C": "工作",
+    "POS": "名詞",
+    "Chinese": "女演員",
+    "remarks": null,
+    "mp3_file": "actress.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "after",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "在...之後",
+    "remarks": null,
+    "mp3_file": "after.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "afternoon",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "下午",
+    "remarks": null,
+    "mp3_file": "afternoon.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "again",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "再一次、又一次",
+    "remarks": null,
+    "mp3_file": "again.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "airplane",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "名詞",
+    "Chinese": "飛機 (= plane)",
+    "remarks": null,
+    "mp3_file": "airplane.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "airport",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "名詞",
+    "Chinese": "機場",
+    "remarks": null,
+    "mp3_file": "airport.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "all",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "限定詞",
+    "Chinese": "全部的",
+    "remarks": null,
+    "mp3_file": "all.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "always",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "總是、永遠",
+    "remarks": null,
+    "mp3_file": "always.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "an",
+    "category_E": "Articles & determiners",
+    "category_C": "冠詞/限定詞",
+    "POS": "冠詞",
+    "Chinese": "一個",
+    "remarks": null,
+    "mp3_file": "an.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "and",
+    "category_E": "Conjunctions",
+    "category_C": "連接詞",
+    "POS": "連接詞",
+    "Chinese": "和",
+    "remarks": null,
+    "mp3_file": "and.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "angry",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "生氣的",
+    "remarks": null,
+    "mp3_file": "angry.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "animal",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "動物",
+    "remarks": null,
+    "mp3_file": "animal.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "answer",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "動詞",
+    "Chinese": "回答",
+    "remarks": null,
+    "mp3_file": "answer.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "apple",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "蘋果",
+    "remarks": null,
+    "mp3_file": "apple.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "April",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "四月",
+    "remarks": null,
+    "mp3_file": "april.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "arm",
+    "category_E": "Parts of body",
+    "category_C": "身體部位",
+    "POS": "名詞",
+    "Chinese": "手臂",
+    "remarks": null,
+    "mp3_file": "arm.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "art",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "美術、藝術",
+    "remarks": null,
+    "mp3_file": "art.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "ask",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "動詞",
+    "Chinese": "問",
+    "remarks": null,
+    "mp3_file": "ask.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "at",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "在(某處)、在(時刻)",
+    "remarks": null,
+    "mp3_file": "at.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "August",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "八月",
+    "remarks": null,
+    "mp3_file": "august.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "aunt",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "阿姨、姑姑、伯母、舅媽",
+    "remarks": null,
+    "mp3_file": "aunt.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "away",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "離開",
+    "remarks": null,
+    "mp3_file": "away.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "baby",
+    "category_E": "People",
+    "category_C": "人",
+    "POS": "名詞",
+    "Chinese": "嬰兒",
+    "remarks": null,
+    "mp3_file": "baby.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "back",
+    "category_E": "Parts of body",
+    "category_C": "身體部位",
+    "POS": "名詞",
+    "Chinese": "背",
+    "remarks": null,
+    "mp3_file": "back.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "back",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "副詞",
+    "Chinese": "向後、回原處",
+    "remarks": null,
+    "mp3_file": "back.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "bad",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "不好的、壞的",
+    "remarks": null,
+    "mp3_file": "bad.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "bag",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "袋子",
+    "remarks": null,
+    "mp3_file": "bag.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "ball",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "名詞",
+    "Chinese": "球",
+    "remarks": null,
+    "mp3_file": "ball.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "banana",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "香蕉",
+    "remarks": null,
+    "mp3_file": "banana.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "bank",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "銀行",
+    "remarks": null,
+    "mp3_file": "bank.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "baseball",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "名詞",
+    "Chinese": "棒球",
+    "remarks": null,
+    "mp3_file": "baseball.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "basketball",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "名詞",
+    "Chinese": "籃球",
+    "remarks": null,
+    "mp3_file": "basketball.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "bathroom",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "浴室",
+    "remarks": null,
+    "mp3_file": "bathroom.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "be",
+    "category_E": "Be & auxiliaries",
+    "category_C": "be動詞/助動詞",
+    "POS": "助動詞",
+    "Chinese": "是 (is, am, are)",
+    "remarks": null,
+    "mp3_file": "be.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "beach",
+    "category_E": "Geographical terms",
+    "category_C": "地理名詞",
+    "POS": "名詞",
+    "Chinese": "海灘",
+    "remarks": null,
+    "mp3_file": "beach.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "bear",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "熊",
+    "remarks": null,
+    "mp3_file": "bear.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "beautiful",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "美麗的、漂亮的",
+    "remarks": null,
+    "mp3_file": "beautiful.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "because",
+    "category_E": "Conjunctions",
+    "category_C": "連接詞",
+    "POS": "連接詞",
+    "Chinese": "因為",
+    "remarks": null,
+    "mp3_file": "because.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "bed",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "床",
+    "remarks": null,
+    "mp3_file": "bed.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "bedroom",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "臥房",
+    "remarks": null,
+    "mp3_file": "bedroom.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "bee",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "蜜蜂",
+    "remarks": null,
+    "mp3_file": "bee.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "beef",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "牛肉",
+    "remarks": null,
+    "mp3_file": "beef.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "before",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞, 連接詞",
+    "Chinese": "在...之前",
+    "remarks": null,
+    "mp3_file": "before.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "behind",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "在...後面",
+    "remarks": null,
+    "mp3_file": "behind.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "bicycle",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "名詞",
+    "Chinese": "腳踏車 (= bike)",
+    "remarks": null,
+    "mp3_file": "bicycle.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "big",
+    "category_E": "Sizes & measurements",
+    "category_C": "尺寸/計量",
+    "POS": "形容詞",
+    "Chinese": "大的",
+    "remarks": null,
+    "mp3_file": "big.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "bike",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "名詞",
+    "Chinese": "腳踏車 (= bicycle)",
+    "remarks": null,
+    "mp3_file": "bike.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "bird",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "鳥",
+    "remarks": null,
+    "mp3_file": "bird.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "birthday",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "生日",
+    "remarks": null,
+    "mp3_file": "birthday.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "bite",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "動詞",
+    "Chinese": "咬",
+    "remarks": null,
+    "mp3_file": "bite.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "black",
+    "category_E": "Colors",
+    "category_C": "顏色",
+    "POS": "形容詞",
+    "Chinese": "黑色的",
+    "remarks": null,
+    "mp3_file": "black.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "blackboard",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "黑板",
+    "remarks": null,
+    "mp3_file": "blackboard.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "blue",
+    "category_E": "Colors",
+    "category_C": "顏色",
+    "POS": "形容詞",
+    "Chinese": "藍色的",
+    "remarks": null,
+    "mp3_file": "blue.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "boat",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "名詞",
+    "Chinese": "船",
+    "remarks": null,
+    "mp3_file": "boat.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "book",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "書、書本",
+    "remarks": null,
+    "mp3_file": "book.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "bookstore",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "書店",
+    "remarks": "非GEPT初級",
+    "mp3_file": "bookstore.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "bored",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "覺得無聊的",
+    "remarks": null,
+    "mp3_file": "bored.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "boring",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "令人無聊的",
+    "remarks": null,
+    "mp3_file": "boring.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "both",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "限定詞",
+    "Chinese": "兩個都",
+    "remarks": null,
+    "mp3_file": "both.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "bottle",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "瓶子",
+    "remarks": null,
+    "mp3_file": "bottle.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "box",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "箱子",
+    "remarks": null,
+    "mp3_file": "box.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "boy",
+    "category_E": "People",
+    "category_C": "人",
+    "POS": "名詞",
+    "Chinese": "男孩",
+    "remarks": null,
+    "mp3_file": "boy.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "bread",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "麵包",
+    "remarks": null,
+    "mp3_file": "bread.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "breakfast",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "早餐",
+    "remarks": null,
+    "mp3_file": "breakfast.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "brother",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "哥哥、弟弟",
+    "remarks": null,
+    "mp3_file": "brother.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "brown",
+    "category_E": "Colors",
+    "category_C": "顏色",
+    "POS": "形容詞",
+    "Chinese": "咖啡色的",
+    "remarks": null,
+    "mp3_file": "brown.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "brush",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "用刷子刷",
+    "remarks": null,
+    "mp3_file": "brush.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "bus",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "名詞",
+    "Chinese": "公車",
+    "remarks": null,
+    "mp3_file": "bus.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "bus stop",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "名詞",
+    "Chinese": "公車站",
+    "remarks": null,
+    "mp3_file": "bus_stop.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "busy",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "忙碌的",
+    "remarks": null,
+    "mp3_file": "busy.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "but",
+    "category_E": "Conjunctions",
+    "category_C": "連接詞",
+    "POS": "連接詞",
+    "Chinese": "但是",
+    "remarks": null,
+    "mp3_file": "but.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "butterfly",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "蝴蝶",
+    "remarks": null,
+    "mp3_file": "butterfly.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "buy",
+    "category_E": "Money",
+    "category_C": "金錢",
+    "POS": "動詞",
+    "Chinese": "買",
+    "remarks": null,
+    "mp3_file": "buy.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "by",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "在...旁邊",
+    "remarks": null,
+    "mp3_file": "by.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "bye",
+    "category_E": "Interjections",
+    "category_C": "感嘆詞",
+    "POS": "感嘆詞",
+    "Chinese": "再見 (= goodbye)",
+    "remarks": null,
+    "mp3_file": "bye.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "cake",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "蛋糕",
+    "remarks": null,
+    "mp3_file": "cake.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "call",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "打電話給...",
+    "remarks": null,
+    "mp3_file": "call.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "can",
+    "category_E": "Be & auxiliaries",
+    "category_C": "be動詞/助動詞",
+    "POS": "助動詞",
+    "Chinese": "可以",
+    "remarks": null,
+    "mp3_file": "can.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "can",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "罐子",
+    "remarks": null,
+    "mp3_file": "can.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "candy",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "糖果",
+    "remarks": null,
+    "mp3_file": "candy.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "cap",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "棒球帽",
+    "remarks": null,
+    "mp3_file": "cap.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "car",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "名詞",
+    "Chinese": "車子",
+    "remarks": null,
+    "mp3_file": "car.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "card",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "名詞",
+    "Chinese": "卡片",
+    "remarks": null,
+    "mp3_file": "card.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "cat",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "貓",
+    "remarks": null,
+    "mp3_file": "cat.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "cellphone",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "手機",
+    "remarks": "非GEPT初級",
+    "mp3_file": "cellphone.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "chair",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "椅子",
+    "remarks": null,
+    "mp3_file": "chair.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "chicken",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "雞",
+    "remarks": null,
+    "mp3_file": "chicken.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "chicken",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "雞肉",
+    "remarks": null,
+    "mp3_file": "chicken.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Chinese",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "中文",
+    "remarks": null,
+    "mp3_file": "Chinese.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "chocolate",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "巧克力",
+    "remarks": null,
+    "mp3_file": "chocolate.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "chopsticks",
+    "category_E": "Tableware",
+    "category_C": "餐具",
+    "POS": "名詞",
+    "Chinese": "筷子",
+    "remarks": null,
+    "mp3_file": "chopsticks.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Christmas",
+    "category_E": "Festival",
+    "category_C": "節日/節慶",
+    "POS": "名詞",
+    "Chinese": "聖誕節",
+    "remarks": null,
+    "mp3_file": "Christmas.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "class",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "課；班級",
+    "remarks": null,
+    "mp3_file": "class.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "classroom",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "教室",
+    "remarks": "非GEPT初級",
+    "mp3_file": "classroom.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "clean",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "形容詞",
+    "Chinese": "乾淨的",
+    "remarks": null,
+    "mp3_file": "clean.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "clean",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "動詞",
+    "Chinese": "清理",
+    "remarks": null,
+    "mp3_file": "clean.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "climb",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "動詞",
+    "Chinese": "爬、攀爬",
+    "remarks": null,
+    "mp3_file": "climb.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "clock",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "時鐘",
+    "remarks": null,
+    "mp3_file": "clock.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "close",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "關",
+    "remarks": null,
+    "mp3_file": "close.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "clothes",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "衣服",
+    "remarks": null,
+    "mp3_file": "clothes.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "cloudy",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "形容詞",
+    "Chinese": "多雲的",
+    "remarks": null,
+    "mp3_file": "cloudy.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "coat",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "外套",
+    "remarks": null,
+    "mp3_file": "coat.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "coffee",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "咖啡",
+    "remarks": null,
+    "mp3_file": "coffee.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "coke",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "可樂",
+    "remarks": "非1200字表",
+    "mp3_file": "coke.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "cold",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "形容詞",
+    "Chinese": "寒冷的",
+    "remarks": null,
+    "mp3_file": "cold.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "cold",
+    "category_E": "Health",
+    "category_C": "健康",
+    "POS": "名詞",
+    "Chinese": "感冒",
+    "remarks": null,
+    "mp3_file": "cold.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "color",
+    "category_E": "Colors",
+    "category_C": "顏色",
+    "POS": "名詞",
+    "Chinese": "顏色",
+    "remarks": null,
+    "mp3_file": "color.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "come",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "來",
+    "remarks": null,
+    "mp3_file": "come.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "computer",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "電腦",
+    "remarks": null,
+    "mp3_file": "computer.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "cook",
+    "category_E": "Occupations",
+    "category_C": "工作",
+    "POS": "名詞",
+    "Chinese": "廚師",
+    "remarks": null,
+    "mp3_file": "cook.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "cook",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "動詞",
+    "Chinese": "做飯",
+    "remarks": null,
+    "mp3_file": "cook.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "cookies",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "餅乾",
+    "remarks": null,
+    "mp3_file": "cookies.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "cool",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "形容詞",
+    "Chinese": "涼爽的",
+    "remarks": null,
+    "mp3_file": "cool.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "cool",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "清涼的",
+    "remarks": null,
+    "mp3_file": "cool.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "cousin",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "堂兄（弟、姊、妹）",
+    "remarks": null,
+    "mp3_file": "cousin.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "cow",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "乳牛",
+    "remarks": null,
+    "mp3_file": "cow.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "cry",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "哭、哭泣",
+    "remarks": null,
+    "mp3_file": "cry.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "cup",
+    "category_E": "Tableware",
+    "category_C": "餐具",
+    "POS": "名詞",
+    "Chinese": "杯子",
+    "remarks": null,
+    "mp3_file": "cup.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "cute",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "可愛的",
+    "remarks": null,
+    "mp3_file": "cute.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "dad",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "爸爸 (= father; daddy)",
+    "remarks": null,
+    "mp3_file": "dad.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "daddy",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "爸爸 (= father; dad)",
+    "remarks": null,
+    "mp3_file": "daddy.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "dance",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "動詞",
+    "Chinese": "跳舞",
+    "remarks": null,
+    "mp3_file": "dance.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "daughter",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "女兒",
+    "remarks": null,
+    "mp3_file": "daughter.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "day",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "天",
+    "remarks": null,
+    "mp3_file": "day.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "December",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "十二月",
+    "remarks": null,
+    "mp3_file": "december.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "department store",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "百貨公司",
+    "remarks": null,
+    "mp3_file": "department_store.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "desk",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "桌子",
+    "remarks": null,
+    "mp3_file": "desk.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "different",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "不一樣的",
+    "remarks": null,
+    "mp3_file": "different.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "dining room",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "(家裡的)餐廳",
+    "remarks": "非GEPT初級",
+    "mp3_file": "dining_room.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "dinner",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "晚餐",
+    "remarks": null,
+    "mp3_file": "dinner.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "dirty",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "髒的",
+    "remarks": null,
+    "mp3_file": "dirty.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "dish",
+    "category_E": "Tableware",
+    "category_C": "餐具",
+    "POS": "名詞",
+    "Chinese": "碟子、盤子",
+    "remarks": null,
+    "mp3_file": "dish.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "do",
+    "category_E": "Be & auxiliaries",
+    "category_C": "be動詞/助動詞",
+    "POS": "助動詞",
+    "Chinese": "助動詞",
+    "remarks": null,
+    "mp3_file": "do.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "do",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "做",
+    "remarks": null,
+    "mp3_file": "do.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "doctor",
+    "category_E": "Occupations",
+    "category_C": "工作",
+    "POS": "名詞",
+    "Chinese": "醫生",
+    "remarks": null,
+    "mp3_file": "doctor.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "dog",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "狗",
+    "remarks": null,
+    "mp3_file": "dog.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "doll",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "名詞",
+    "Chinese": "玩偶",
+    "remarks": null,
+    "mp3_file": "doll.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "dollar",
+    "category_E": "Money",
+    "category_C": "金錢",
+    "POS": "名詞",
+    "Chinese": "元",
+    "remarks": null,
+    "mp3_file": "dollar.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "door",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "門",
+    "remarks": null,
+    "mp3_file": "door.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Dragon Boat Festival",
+    "category_E": "Festival",
+    "category_C": "節日/節慶",
+    "POS": "名詞",
+    "Chinese": "端午節",
+    "remarks": null,
+    "mp3_file": "Dragon_Boat_Festival.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "draw",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "動詞",
+    "Chinese": "畫、描畫",
+    "remarks": null,
+    "mp3_file": "draw.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "dream",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "夢",
+    "remarks": null,
+    "mp3_file": "dream.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "dress",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "洋裝",
+    "remarks": null,
+    "mp3_file": "dress.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "drink",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "動詞",
+    "Chinese": "喝",
+    "remarks": null,
+    "mp3_file": "drink.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "drive",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "動詞",
+    "Chinese": "開車",
+    "remarks": null,
+    "mp3_file": "drive.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "driver",
+    "category_E": "Occupations",
+    "category_C": "工作",
+    "POS": "名詞",
+    "Chinese": "司機、駕駛員",
+    "remarks": null,
+    "mp3_file": "driver.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "drum",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "名詞",
+    "Chinese": "鼓",
+    "remarks": null,
+    "mp3_file": "drum.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "duck",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "鴨肉",
+    "remarks": null,
+    "mp3_file": "duck.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "duck",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "鴨子",
+    "remarks": null,
+    "mp3_file": "duck.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "dumpling",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "水餃",
+    "remarks": null,
+    "mp3_file": "dumpling.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "ear",
+    "category_E": "Parts of body",
+    "category_C": "身體部位",
+    "POS": "名詞",
+    "Chinese": "耳朵",
+    "remarks": null,
+    "mp3_file": "ear.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "early",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "形容詞, 副詞",
+    "Chinese": "早到（的）",
+    "remarks": null,
+    "mp3_file": "early.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Easter",
+    "category_E": "Festival",
+    "category_C": "節日/節慶",
+    "POS": "名詞",
+    "Chinese": "復活節",
+    "remarks": null,
+    "mp3_file": "Easter.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "easy",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "簡單的",
+    "remarks": null,
+    "mp3_file": "easy.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "eat",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "動詞",
+    "Chinese": "吃",
+    "remarks": null,
+    "mp3_file": "eat.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "egg",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "蛋",
+    "remarks": null,
+    "mp3_file": "egg.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "eight",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "八",
+    "remarks": null,
+    "mp3_file": "eight.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "eighteen",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "十八",
+    "remarks": null,
+    "mp3_file": "eighteen.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "eighty",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "八十",
+    "remarks": null,
+    "mp3_file": "eighty.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "elephant",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "大象",
+    "remarks": null,
+    "mp3_file": "elephant.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "eleven",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "十一",
+    "remarks": null,
+    "mp3_file": "eleven.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "email",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "電子郵件",
+    "remarks": null,
+    "mp3_file": "email.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "English",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "英文",
+    "remarks": null,
+    "mp3_file": "English.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "enjoy",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "享受、喜歡",
+    "remarks": null,
+    "mp3_file": "enjoy.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "eraser",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "橡皮擦",
+    "remarks": null,
+    "mp3_file": "eraser.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "evening",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "傍晚",
+    "remarks": null,
+    "mp3_file": "evening.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "every",
+    "category_E": "Articles & determiners",
+    "category_C": "冠詞/限定詞",
+    "POS": "限定詞",
+    "Chinese": "每一個",
+    "remarks": null,
+    "mp3_file": "every.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "excited",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "覺得興奮的",
+    "remarks": null,
+    "mp3_file": "excited.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "exciting",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "令人興奮的",
+    "remarks": null,
+    "mp3_file": "exciting.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "excuse me",
+    "category_E": "Interjections",
+    "category_C": "感嘆詞",
+    "POS": "感嘆詞",
+    "Chinese": "不好意思、對不起",
+    "remarks": null,
+    "mp3_file": "excuse_me.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "eye",
+    "category_E": "Parts of body",
+    "category_C": "身體部位",
+    "POS": "名詞",
+    "Chinese": "眼睛",
+    "remarks": null,
+    "mp3_file": "eye.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "face",
+    "category_E": "Parts of body",
+    "category_C": "身體部位",
+    "POS": "名詞",
+    "Chinese": "臉",
+    "remarks": null,
+    "mp3_file": "face.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "fall",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "秋天",
+    "remarks": null,
+    "mp3_file": "fall.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "fall",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "掉落",
+    "remarks": null,
+    "mp3_file": "fall.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "family",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "家庭、家人",
+    "remarks": null,
+    "mp3_file": "family.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "fan",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "電扇",
+    "remarks": null,
+    "mp3_file": "fan.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "farmer",
+    "category_E": "Occupations",
+    "category_C": "工作",
+    "POS": "名詞",
+    "Chinese": "農夫",
+    "remarks": null,
+    "mp3_file": "farmer.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "fast",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "形容詞, 副詞",
+    "Chinese": "快速的（地）",
+    "remarks": null,
+    "mp3_file": "fast.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "father",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "爸爸 (= dad; daddy)",
+    "remarks": null,
+    "mp3_file": "father.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "favorite",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "最喜歡的",
+    "remarks": null,
+    "mp3_file": "favorite.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "February",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "二月",
+    "remarks": null,
+    "mp3_file": "february.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "feel",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "感受、感覺",
+    "remarks": null,
+    "mp3_file": "feel.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "feet",
+    "category_E": "Parts of body",
+    "category_C": "身體部位",
+    "POS": "名詞",
+    "Chinese": "腳 (複數)",
+    "remarks": null,
+    "mp3_file": "feet.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "fifteen",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "十五",
+    "remarks": null,
+    "mp3_file": "fifteen.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "fifty",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "五十",
+    "remarks": null,
+    "mp3_file": "fifty.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "find",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "找",
+    "remarks": null,
+    "mp3_file": "find.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "fine",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "很好的、很不錯的",
+    "remarks": null,
+    "mp3_file": "fine.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "fire station",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "消防站",
+    "remarks": null,
+    "mp3_file": "fire_station.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "first",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "第一",
+    "remarks": null,
+    "mp3_file": "first.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "fish",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "魚",
+    "remarks": null,
+    "mp3_file": "fish.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "fish",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "魚肉",
+    "remarks": null,
+    "mp3_file": "fish.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "fish",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "動詞",
+    "Chinese": "釣魚",
+    "remarks": null,
+    "mp3_file": "fish.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "five",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "五",
+    "remarks": null,
+    "mp3_file": "five.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "floor",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "地板",
+    "remarks": null,
+    "mp3_file": "floor.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "flower",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "花",
+    "remarks": null,
+    "mp3_file": "flower.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "fly",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "動詞",
+    "Chinese": "飛、飛行",
+    "remarks": null,
+    "mp3_file": "fly.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "food",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "食物",
+    "remarks": null,
+    "mp3_file": "food.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "foot",
+    "category_E": "Parts of body",
+    "category_C": "身體部位",
+    "POS": "名詞",
+    "Chinese": "腳",
+    "remarks": null,
+    "mp3_file": "foot.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "football",
+    "category_E": "\"Sports, interests & hobbies\"",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "名詞",
+    "Chinese": "足球 (UK; 英式英語)",
+    "remarks": null,
+    "mp3_file": "football.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "for",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "給、為了(某人、物)",
+    "remarks": null,
+    "mp3_file": "for.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "fork",
+    "category_E": "Tableware",
+    "category_C": "餐具",
+    "POS": "名詞",
+    "Chinese": "叉子",
+    "remarks": null,
+    "mp3_file": "fork.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "forty",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "四十",
+    "remarks": null,
+    "mp3_file": "forty.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "four",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "四",
+    "remarks": null,
+    "mp3_file": "four.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "fourteen",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "十四",
+    "remarks": null,
+    "mp3_file": "fourteen.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "free",
+    "category_E": "Money",
+    "category_C": "金錢",
+    "POS": "形容詞",
+    "Chinese": "免費的",
+    "remarks": null,
+    "mp3_file": "free.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "French fries",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "薯條",
+    "remarks": null,
+    "mp3_file": "french_fries.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Friday",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "星期五",
+    "remarks": null,
+    "mp3_file": "friday.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "fridge",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "電冰箱 (= refrigerator)",
+    "remarks": "非GEPT初級",
+    "mp3_file": "frige.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "friend",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "朋友",
+    "remarks": null,
+    "mp3_file": "friend.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "frog",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "青蛙",
+    "remarks": null,
+    "mp3_file": "frog.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "from",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "從(某處)/(某時刻)/(某人)",
+    "remarks": null,
+    "mp3_file": "from.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "fruit",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "水果",
+    "remarks": null,
+    "mp3_file": "fruit.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "full",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "形容詞",
+    "Chinese": "飽的",
+    "remarks": null,
+    "mp3_file": "full.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "fun",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "有趣的",
+    "remarks": null,
+    "mp3_file": "fun.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "fun",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "樂趣",
+    "remarks": null,
+    "mp3_file": "fun.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "game",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "名詞",
+    "Chinese": "遊戲、比賽",
+    "remarks": null,
+    "mp3_file": "game.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "garden",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "院子、花園",
+    "remarks": null,
+    "mp3_file": "garden.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "get",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "得到、收到",
+    "remarks": null,
+    "mp3_file": "get.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "gift",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "禮物",
+    "remarks": null,
+    "mp3_file": "gift.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "girl",
+    "category_E": "People",
+    "category_C": "人",
+    "POS": "名詞",
+    "Chinese": "女孩",
+    "remarks": null,
+    "mp3_file": "girl.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "give",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "給",
+    "remarks": null,
+    "mp3_file": "give.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "glass",
+    "category_E": "Tableware",
+    "category_C": "餐具",
+    "POS": "名詞",
+    "Chinese": "玻璃杯",
+    "remarks": null,
+    "mp3_file": "glass.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "glasses",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "眼鏡",
+    "remarks": null,
+    "mp3_file": "glasses.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "glue",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "膠水",
+    "remarks": null,
+    "mp3_file": "glue.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "go",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "去、走",
+    "remarks": null,
+    "mp3_file": "go.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "good",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "好的",
+    "remarks": null,
+    "mp3_file": "good.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "goodbye",
+    "category_E": "Interjections",
+    "category_C": "感嘆詞",
+    "POS": "感嘆詞",
+    "Chinese": "再見 (= bye)",
+    "remarks": null,
+    "mp3_file": "goodbye.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "grandfather",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "外公、爺爺 (= grandpa)",
+    "remarks": null,
+    "mp3_file": "grandfather.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "grandma",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "外婆、奶奶 (= grandmother)",
+    "remarks": null,
+    "mp3_file": "grandma.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "grandmother",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "外婆、奶奶 (= grandma)",
+    "remarks": null,
+    "mp3_file": "grandmother.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "grandpa",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "外公、爺爺 (= grandfather)",
+    "remarks": null,
+    "mp3_file": "grandpa.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "grape",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "葡萄",
+    "remarks": null,
+    "mp3_file": "grape.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "gray",
+    "category_E": "Colors",
+    "category_C": "顏色",
+    "POS": "形容詞",
+    "Chinese": "灰色的",
+    "remarks": null,
+    "mp3_file": "gray.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "great",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "很棒的",
+    "remarks": null,
+    "mp3_file": "great.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "green",
+    "category_E": "Colors",
+    "category_C": "顏色",
+    "POS": "形容詞",
+    "Chinese": "綠色的",
+    "remarks": null,
+    "mp3_file": "green.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "grow",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "動詞",
+    "Chinese": "成長、長大",
+    "remarks": null,
+    "mp3_file": "grow.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "hair",
+    "category_E": "Parts of body",
+    "category_C": "身體部位",
+    "POS": "名詞",
+    "Chinese": "頭髮",
+    "remarks": null,
+    "mp3_file": "hair.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Halloween",
+    "category_E": "Festival",
+    "category_C": "節日/節慶",
+    "POS": "名詞",
+    "Chinese": "萬聖節",
+    "remarks": null,
+    "mp3_file": "Halloween.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "hamburger",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "漢堡",
+    "remarks": null,
+    "mp3_file": "hamburger.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "hand",
+    "category_E": "Parts of body",
+    "category_C": "身體部位",
+    "POS": "名詞",
+    "Chinese": "手",
+    "remarks": null,
+    "mp3_file": "hand.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "happy",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "開心的、高興的",
+    "remarks": null,
+    "mp3_file": "happy.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "hard",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "困難的",
+    "remarks": null,
+    "mp3_file": "hard.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "hat",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "帽子",
+    "remarks": null,
+    "mp3_file": "hat.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "have",
+    "category_E": "Be & auxiliaries",
+    "category_C": "be動詞/助動詞",
+    "POS": "助動詞",
+    "Chinese": "助動詞",
+    "remarks": null,
+    "mp3_file": "have.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "have",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "有",
+    "remarks": null,
+    "mp3_file": "have.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "he",
+    "category_E": "Pronouns",
+    "category_C": "代名詞",
+    "POS": "代名詞",
+    "Chinese": "他",
+    "remarks": null,
+    "mp3_file": "he.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "head",
+    "category_E": "Parts of body",
+    "category_C": "身體部位",
+    "POS": "名詞",
+    "Chinese": "頭",
+    "remarks": null,
+    "mp3_file": "head.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "headache",
+    "category_E": "Health",
+    "category_C": "健康",
+    "POS": "名詞",
+    "Chinese": "頭痛",
+    "remarks": null,
+    "mp3_file": "headache.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "heavy",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "重的 (人)",
+    "remarks": null,
+    "mp3_file": "heavy.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "heavy",
+    "category_E": "Sizes & measurements",
+    "category_C": "尺寸/計量",
+    "POS": "形容詞",
+    "Chinese": "重的 (物品)",
+    "remarks": null,
+    "mp3_file": "heavy.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "hello",
+    "category_E": "Interjections",
+    "category_C": "感嘆詞",
+    "POS": "感嘆詞",
+    "Chinese": "哈囉",
+    "remarks": null,
+    "mp3_file": "hello.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "help",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "幫助",
+    "remarks": null,
+    "mp3_file": "help.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "her",
+    "category_E": "Articles & determiners",
+    "category_C": "冠詞/限定詞",
+    "POS": "限定詞",
+    "Chinese": "她的",
+    "remarks": null,
+    "mp3_file": "her.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "her",
+    "category_E": "Pronouns",
+    "category_C": "代名詞",
+    "POS": "代名詞",
+    "Chinese": "她",
+    "remarks": null,
+    "mp3_file": "her.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "here",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "副詞",
+    "Chinese": "這裡",
+    "remarks": null,
+    "mp3_file": "here.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "hi",
+    "category_E": "Interjections",
+    "category_C": "感嘆詞",
+    "POS": "感嘆詞",
+    "Chinese": "嗨",
+    "remarks": null,
+    "mp3_file": "hi.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "high",
+    "category_E": "Sizes & measurements",
+    "category_C": "尺寸/計量",
+    "POS": "形容詞",
+    "Chinese": "高的",
+    "remarks": null,
+    "mp3_file": "high.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "hike",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "動詞",
+    "Chinese": "健行",
+    "remarks": null,
+    "mp3_file": "hike.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "him",
+    "category_E": "Pronouns",
+    "category_C": "代名詞",
+    "POS": "代名詞",
+    "Chinese": "他(受詞)",
+    "remarks": null,
+    "mp3_file": "him.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "hippo",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "河馬",
+    "remarks": null,
+    "mp3_file": "hippo.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "his",
+    "category_E": "Articles & determiners",
+    "category_C": "冠詞/限定詞",
+    "POS": "限定詞",
+    "Chinese": "他的",
+    "remarks": null,
+    "mp3_file": "his.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "hit",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "打、碰撞",
+    "remarks": null,
+    "mp3_file": "hit.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "home",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "家庭",
+    "remarks": null,
+    "mp3_file": "home.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "homework",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "回家作業",
+    "remarks": null,
+    "mp3_file": "homework.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "hope",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "希望",
+    "remarks": null,
+    "mp3_file": "hope.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "horse",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "馬",
+    "remarks": null,
+    "mp3_file": "horse.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "hospital",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "醫院",
+    "remarks": null,
+    "mp3_file": "hospital.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "hot",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "形容詞",
+    "Chinese": "熱的",
+    "remarks": null,
+    "mp3_file": "hot.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "hot",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "燙的",
+    "remarks": null,
+    "mp3_file": "hot.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "house",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "房子",
+    "remarks": null,
+    "mp3_file": "house.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "how",
+    "category_E": "Wh-words",
+    "category_C": "疑問詞",
+    "POS": "副詞",
+    "Chinese": "如何...",
+    "remarks": null,
+    "mp3_file": "how.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "hundred",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "一百",
+    "remarks": null,
+    "mp3_file": "hundred.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "hungry",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "形容詞",
+    "Chinese": "餓的",
+    "remarks": null,
+    "mp3_file": "hungry.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "hurry",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "趕快、急忙",
+    "remarks": null,
+    "mp3_file": "hurry.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "hurt",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "受傷",
+    "remarks": null,
+    "mp3_file": "hurt.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "I",
+    "category_E": "Pronouns",
+    "category_C": "代名詞",
+    "POS": "代名詞",
+    "Chinese": "我",
+    "remarks": null,
+    "mp3_file": "i.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "ice cream",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "冰淇淋",
+    "remarks": null,
+    "mp3_file": "ice_cream.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "in",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "在...裡面、在某短時間裡",
+    "remarks": null,
+    "mp3_file": "in.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "in front of",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "在...前面",
+    "remarks": null,
+    "mp3_file": "in_front_of.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "inside",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "在...裡面、向...裡面",
+    "remarks": null,
+    "mp3_file": "inside.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "interesting",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "有趣的",
+    "remarks": "非GEPT初級",
+    "mp3_file": "interesting.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "it",
+    "category_E": "Pronouns",
+    "category_C": "代名詞",
+    "POS": "代名詞",
+    "Chinese": "它、牠",
+    "remarks": null,
+    "mp3_file": "it.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "its",
+    "category_E": "Articles & determiners",
+    "category_C": "冠詞/限定詞",
+    "POS": "限定詞",
+    "Chinese": "它的、牠的",
+    "remarks": null,
+    "mp3_file": "its.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "jacket",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "夾克、外套",
+    "remarks": null,
+    "mp3_file": "jacket.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "January",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "一月",
+    "remarks": null,
+    "mp3_file": "january.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Japan",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "日本",
+    "remarks": null,
+    "mp3_file": "Japan.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "job",
+    "category_E": "Occupations",
+    "category_C": "工作",
+    "POS": "名詞",
+    "Chinese": "工作、職業",
+    "remarks": null,
+    "mp3_file": "job.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "juice",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "果汁",
+    "remarks": null,
+    "mp3_file": "juice.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "July",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "七月",
+    "remarks": null,
+    "mp3_file": "july.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "jump",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "跳",
+    "remarks": null,
+    "mp3_file": "jump.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "June",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "六月",
+    "remarks": null,
+    "mp3_file": "june.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "key",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "鑰匙",
+    "remarks": null,
+    "mp3_file": "key.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "kid",
+    "category_E": "People",
+    "category_C": "人",
+    "POS": "名詞",
+    "Chinese": "小孩",
+    "remarks": null,
+    "mp3_file": "kid.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "kitchen",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "廚房",
+    "remarks": null,
+    "mp3_file": "kitchen.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "kite",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "名詞",
+    "Chinese": "風箏",
+    "remarks": null,
+    "mp3_file": "kite.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "knife",
+    "category_E": "Tableware",
+    "category_C": "餐具",
+    "POS": "名詞",
+    "Chinese": "刀子",
+    "remarks": null,
+    "mp3_file": "knife.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "know",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "知道、認識",
+    "remarks": null,
+    "mp3_file": "know.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "koala",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "無尾熊",
+    "remarks": null,
+    "mp3_file": "koala.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "lake",
+    "category_E": "Geographical terms",
+    "category_C": "地理名詞",
+    "POS": "名詞",
+    "Chinese": "湖",
+    "remarks": null,
+    "mp3_file": "lake.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "lamp",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "燈",
+    "remarks": null,
+    "mp3_file": "lamp.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "last",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "限定詞, 形容詞",
+    "Chinese": "最後的",
+    "remarks": null,
+    "mp3_file": "last.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "late",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "形容詞, 副詞",
+    "Chinese": "晚到（的）",
+    "remarks": null,
+    "mp3_file": "late.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "laugh",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "笑",
+    "remarks": null,
+    "mp3_file": "laugh.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "lazy",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "懶惰的",
+    "remarks": null,
+    "mp3_file": "lazy.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "left",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "形容詞, 副詞",
+    "Chinese": "左邊(的)",
+    "remarks": null,
+    "mp3_file": "left.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "leg",
+    "category_E": "Parts of body",
+    "category_C": "身體部位",
+    "POS": "名詞",
+    "Chinese": "腿",
+    "remarks": null,
+    "mp3_file": "leg.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "lemon",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "檸檬",
+    "remarks": null,
+    "mp3_file": "lemon.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "let's",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "讓我們...",
+    "remarks": null,
+    "mp3_file": "let_s.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "library",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "圖書館",
+    "remarks": null,
+    "mp3_file": "library.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "light",
+    "category_E": "Sizes & measurements",
+    "category_C": "尺寸/計量",
+    "POS": "形容詞",
+    "Chinese": "輕的",
+    "remarks": null,
+    "mp3_file": "light.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "like",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "喜歡",
+    "remarks": null,
+    "mp3_file": "like.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "lion",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "獅子",
+    "remarks": null,
+    "mp3_file": "lion.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "listen",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "動詞",
+    "Chinese": "聽",
+    "remarks": null,
+    "mp3_file": "listen.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "live",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "動詞",
+    "Chinese": "住",
+    "remarks": null,
+    "mp3_file": "live.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "living room",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "客廳",
+    "remarks": "非GEPT初級",
+    "mp3_file": "living_room.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "long",
+    "category_E": "Sizes & measurements",
+    "category_C": "尺寸/計量",
+    "POS": "形容詞",
+    "Chinese": "長的",
+    "remarks": null,
+    "mp3_file": "long.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "look",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "看、看起來",
+    "remarks": null,
+    "mp3_file": "look.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "love",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "愛、喜愛",
+    "remarks": null,
+    "mp3_file": "love.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "lunch",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "午餐",
+    "remarks": null,
+    "mp3_file": "lunch.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "mad",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "生氣的、氣憤的",
+    "remarks": null,
+    "mp3_file": "mad.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "mail",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "信",
+    "remarks": null,
+    "mp3_file": "mail.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "mailman",
+    "category_E": "Occupations",
+    "category_C": "工作",
+    "POS": "名詞",
+    "Chinese": "郵差",
+    "remarks": null,
+    "mp3_file": "mailman.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "make",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "做、製造",
+    "remarks": null,
+    "mp3_file": "make.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "man",
+    "category_E": "People",
+    "category_C": "人",
+    "POS": "名詞",
+    "Chinese": "男人",
+    "remarks": null,
+    "mp3_file": "man.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "many",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "限定詞, 形容詞",
+    "Chinese": "許多(例如many flowers)",
+    "remarks": null,
+    "mp3_file": "many.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "March",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "三月",
+    "remarks": null,
+    "mp3_file": "march.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "marker",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "麥克筆",
+    "remarks": null,
+    "mp3_file": "marker.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "market",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "市場",
+    "remarks": null,
+    "mp3_file": "market.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "math",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "數學",
+    "remarks": null,
+    "mp3_file": "math.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "May",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "五月",
+    "remarks": null,
+    "mp3_file": "may.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "maybe",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "也許",
+    "remarks": null,
+    "mp3_file": "maybe.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "me",
+    "category_E": "Pronouns",
+    "category_C": "代名詞",
+    "POS": "代名詞",
+    "Chinese": "我(受詞)",
+    "remarks": null,
+    "mp3_file": "me.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "meal",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "餐",
+    "remarks": null,
+    "mp3_file": "meal.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "meet",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "遇見、會面",
+    "remarks": null,
+    "mp3_file": "meet.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "men",
+    "category_E": "People",
+    "category_C": "人",
+    "POS": "名詞",
+    "Chinese": "男人 (複數)",
+    "remarks": null,
+    "mp3_file": "men.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "mice",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "老鼠 (複數)",
+    "remarks": null,
+    "mp3_file": "mice.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "milk",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "牛奶",
+    "remarks": null,
+    "mp3_file": "milk.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Miss",
+    "category_E": "Forms of address",
+    "category_C": "稱謂",
+    "POS": "",
+    "Chinese": "小姐",
+    "remarks": null,
+    "mp3_file": "miss.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "miss",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "想念",
+    "remarks": null,
+    "mp3_file": "miss.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "mom",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "媽媽 (= mother; mommy)",
+    "remarks": null,
+    "mp3_file": "mom.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "mommy",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "媽媽 (= mother; mom)",
+    "remarks": null,
+    "mp3_file": "mommy.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Monday",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "星期一",
+    "remarks": null,
+    "mp3_file": "monday.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "money",
+    "category_E": "Money",
+    "category_C": "金錢",
+    "POS": "名詞",
+    "Chinese": "錢",
+    "remarks": null,
+    "mp3_file": "money.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "monkey",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "猴子",
+    "remarks": null,
+    "mp3_file": "monkey.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "month",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "月",
+    "remarks": null,
+    "mp3_file": "month.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "moon",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "名詞",
+    "Chinese": "月亮",
+    "remarks": null,
+    "mp3_file": "moon.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Moon Festival",
+    "category_E": "Festival",
+    "category_C": "節日/節慶",
+    "POS": "名詞",
+    "Chinese": "中秋節",
+    "remarks": null,
+    "mp3_file": "Moon_Festival.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "mop",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "動詞",
+    "Chinese": "用拖把拖地",
+    "remarks": null,
+    "mp3_file": "mop.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "more",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "限定詞, 副詞",
+    "Chinese": "更多、較多",
+    "remarks": null,
+    "mp3_file": "more.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "morning",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "早上",
+    "remarks": null,
+    "mp3_file": "morning.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "mother",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "媽媽 (= mom; mommy)",
+    "remarks": null,
+    "mp3_file": "mother.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "motorcycle",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "名詞",
+    "Chinese": "摩托車",
+    "remarks": null,
+    "mp3_file": "motorcycle.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "mountain",
+    "category_E": "Geographical terms",
+    "category_C": "地理名詞",
+    "POS": "名詞",
+    "Chinese": "山",
+    "remarks": null,
+    "mp3_file": "mountain.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "mouse",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "老鼠",
+    "remarks": null,
+    "mp3_file": "mouse.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "mouth",
+    "category_E": "Parts of body",
+    "category_C": "身體部位",
+    "POS": "名詞",
+    "Chinese": "嘴巴",
+    "remarks": null,
+    "mp3_file": "mouth.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "movie",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "名詞",
+    "Chinese": "電影",
+    "remarks": null,
+    "mp3_file": "movie.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "movie theater",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "電影院",
+    "remarks": null,
+    "mp3_file": "movie_theater.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Mr.",
+    "category_E": "Forms of address",
+    "category_C": "稱謂",
+    "POS": "",
+    "Chinese": "先生",
+    "remarks": null,
+    "mp3_file": "mister.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Mrs.",
+    "category_E": "Forms of address",
+    "category_C": "稱謂",
+    "POS": "",
+    "Chinese": "太太",
+    "remarks": null,
+    "mp3_file": "mrs.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "MRT",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "名詞",
+    "Chinese": "捷運",
+    "remarks": null,
+    "mp3_file": "mrt.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "much",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "限定詞,副詞",
+    "Chinese": "許多(例如much water)",
+    "remarks": null,
+    "mp3_file": "much.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "museum",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "博物館",
+    "remarks": null,
+    "mp3_file": "museum.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "music",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "音樂",
+    "remarks": null,
+    "mp3_file": "music.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "my",
+    "category_E": "Articles & determiners",
+    "category_C": "冠詞/限定詞",
+    "POS": "限定詞",
+    "Chinese": "我的",
+    "remarks": null,
+    "mp3_file": "my.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "name",
+    "category_E": "Forms of address",
+    "category_C": "稱謂",
+    "POS": "名詞",
+    "Chinese": "名字",
+    "remarks": null,
+    "mp3_file": "name.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "near",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "靠近、接近",
+    "remarks": null,
+    "mp3_file": "near.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "need",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "需要",
+    "remarks": null,
+    "mp3_file": "need.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "never",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "不曾",
+    "remarks": null,
+    "mp3_file": "never.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "new",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "新的",
+    "remarks": null,
+    "mp3_file": "new.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "next to",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "在...旁邊",
+    "remarks": null,
+    "mp3_file": "next_to.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "nice",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "令人愉快的、宜人的",
+    "remarks": null,
+    "mp3_file": "nice.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "night",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "晚上",
+    "remarks": null,
+    "mp3_file": "night.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "nine",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "九",
+    "remarks": null,
+    "mp3_file": "nine.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "nineteen",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "十九",
+    "remarks": null,
+    "mp3_file": "nineteen.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "ninety",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "九十",
+    "remarks": null,
+    "mp3_file": "ninety.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "no",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "不",
+    "remarks": null,
+    "mp3_file": "no.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "noodles",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "麵",
+    "remarks": null,
+    "mp3_file": "noodles.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "nose",
+    "category_E": "Parts of body",
+    "category_C": "身體部位",
+    "POS": "名詞",
+    "Chinese": "鼻子",
+    "remarks": null,
+    "mp3_file": "nose.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "not",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "不、沒有",
+    "remarks": null,
+    "mp3_file": "not.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "nothing",
+    "category_E": "Pronouns",
+    "category_C": "代名詞",
+    "POS": "代名詞",
+    "Chinese": "什麼都沒有",
+    "remarks": null,
+    "mp3_file": "nothing.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "November",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "十一月",
+    "remarks": null,
+    "mp3_file": "november.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "now",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "副詞",
+    "Chinese": "現在",
+    "remarks": null,
+    "mp3_file": "now.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "number",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "名詞",
+    "Chinese": "數字",
+    "remarks": null,
+    "mp3_file": "number.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "nurse",
+    "category_E": "Occupations",
+    "category_C": "工作",
+    "POS": "名詞",
+    "Chinese": "護士",
+    "remarks": null,
+    "mp3_file": "nurse.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "o'clock",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "副詞",
+    "Chinese": "...點鐘",
+    "remarks": null,
+    "mp3_file": "o_clock.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "October",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "十月",
+    "remarks": null,
+    "mp3_file": "october.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "of",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "...的",
+    "remarks": null,
+    "mp3_file": "of.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "off",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "離開、從...去掉",
+    "remarks": null,
+    "mp3_file": "off.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "office",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "辦公室",
+    "remarks": null,
+    "mp3_file": "office.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "OK",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "好的",
+    "remarks": null,
+    "mp3_file": "okay.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "OK",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "沒事",
+    "remarks": null,
+    "mp3_file": "okay.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "old",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "1. 年紀、年齡；2. 老的",
+    "remarks": null,
+    "mp3_file": "old.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "on",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "在...上面；在(某一天)",
+    "remarks": null,
+    "mp3_file": "on.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "one",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "一",
+    "remarks": null,
+    "mp3_file": "one.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "only",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "僅有的",
+    "remarks": null,
+    "mp3_file": "only.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "only",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "唯一地",
+    "remarks": null,
+    "mp3_file": "only.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "open",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "開",
+    "remarks": null,
+    "mp3_file": "open.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "orange",
+    "category_E": "Colors",
+    "category_C": "顏色",
+    "POS": "形容詞",
+    "Chinese": "橘色的",
+    "remarks": null,
+    "mp3_file": "orange.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "orange",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "橘子",
+    "remarks": null,
+    "mp3_file": "orange.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "other",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞, 代名詞, 限定詞",
+    "Chinese": "其他的",
+    "remarks": null,
+    "mp3_file": "other.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "our",
+    "category_E": "Articles & determiners",
+    "category_C": "冠詞/限定詞",
+    "POS": "限定詞",
+    "Chinese": "我們的",
+    "remarks": null,
+    "mp3_file": "our.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "out",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "向外地",
+    "remarks": null,
+    "mp3_file": "out.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "outside",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "在...外面、向...外面",
+    "remarks": null,
+    "mp3_file": "outside.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "over",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "在...上方",
+    "remarks": null,
+    "mp3_file": "over.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "paint",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "動詞",
+    "Chinese": "用顏料畫、刷油漆",
+    "remarks": null,
+    "mp3_file": "paint.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "pair",
+    "category_E": "Sizes & measurements",
+    "category_C": "尺寸/計量",
+    "POS": "名詞",
+    "Chinese": "一雙、一對",
+    "remarks": null,
+    "mp3_file": "pair.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "panda",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "大貓熊",
+    "remarks": null,
+    "mp3_file": "panda.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "pants",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "長褲",
+    "remarks": null,
+    "mp3_file": "pants.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "paper",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "紙張",
+    "remarks": null,
+    "mp3_file": "paper.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "parent",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "父母親",
+    "remarks": null,
+    "mp3_file": "parent.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "park",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "公園",
+    "remarks": null,
+    "mp3_file": "park.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "party",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "派對",
+    "remarks": null,
+    "mp3_file": "party.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "PE",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "體育（課）",
+    "remarks": null,
+    "mp3_file": "PE.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "peach",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "桃子",
+    "remarks": null,
+    "mp3_file": "peach.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "pen",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "筆、鋼筆",
+    "remarks": null,
+    "mp3_file": "pen.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "pencil",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "鉛筆",
+    "remarks": null,
+    "mp3_file": "pencil.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "people",
+    "category_E": "People",
+    "category_C": "人",
+    "POS": "名詞",
+    "Chinese": "人 (複數)",
+    "remarks": null,
+    "mp3_file": "people.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "person",
+    "category_E": "People",
+    "category_C": "人",
+    "POS": "名詞",
+    "Chinese": "人",
+    "remarks": null,
+    "mp3_file": "person.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "pet",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "寵物",
+    "remarks": null,
+    "mp3_file": "pet.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "photo",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "照片",
+    "remarks": null,
+    "mp3_file": "photo.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "piano",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "名詞",
+    "Chinese": "鋼琴",
+    "remarks": null,
+    "mp3_file": "piano.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "pick up",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "撿起、接（人）、接（電話）",
+    "remarks": null,
+    "mp3_file": "pick_up.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "picture",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "圖片、照片",
+    "remarks": null,
+    "mp3_file": "picture.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "pie",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "派",
+    "remarks": null,
+    "mp3_file": "pie.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "pig",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "豬",
+    "remarks": null,
+    "mp3_file": "pig.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "pink",
+    "category_E": "Colors",
+    "category_C": "顏色",
+    "POS": "形容詞",
+    "Chinese": "粉紅色的",
+    "remarks": null,
+    "mp3_file": "pink.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "pizza",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "披薩",
+    "remarks": null,
+    "mp3_file": "pizza.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "plane",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "名詞",
+    "Chinese": "飛機 (= airplane)",
+    "remarks": null,
+    "mp3_file": "plane.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "play",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "動詞",
+    "Chinese": "玩",
+    "remarks": null,
+    "mp3_file": "play.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "please",
+    "category_E": "Interjections",
+    "category_C": "感嘆詞",
+    "POS": "感嘆詞",
+    "Chinese": "請",
+    "remarks": null,
+    "mp3_file": "please.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "pocket",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "口袋",
+    "remarks": null,
+    "mp3_file": "pocket.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "police officer",
+    "category_E": "Occupations",
+    "category_C": "工作",
+    "POS": "名詞",
+    "Chinese": "警察",
+    "remarks": null,
+    "mp3_file": "police_officer.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "police station",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "警察局",
+    "remarks": null,
+    "mp3_file": "police_station.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "pork",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "豬肉",
+    "remarks": null,
+    "mp3_file": "pork.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "post office",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "郵局",
+    "remarks": null,
+    "mp3_file": "post_office.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "pretty",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "漂亮的",
+    "remarks": null,
+    "mp3_file": "pretty.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "pumpkin",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "南瓜",
+    "remarks": null,
+    "mp3_file": "pumpkin.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "purple",
+    "category_E": "Colors",
+    "category_C": "顏色",
+    "POS": "形容詞",
+    "Chinese": "紫色的",
+    "remarks": null,
+    "mp3_file": "purple.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "put",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "放",
+    "remarks": null,
+    "mp3_file": "put.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "question",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "問題",
+    "remarks": null,
+    "mp3_file": "question.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "quiet",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "安靜的",
+    "remarks": null,
+    "mp3_file": "quiet.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "rabbit",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "兔子",
+    "remarks": null,
+    "mp3_file": "rabbit.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "rain",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "名詞",
+    "Chinese": "雨水",
+    "remarks": null,
+    "mp3_file": "rain.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "rain",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "動詞",
+    "Chinese": "下雨",
+    "remarks": null,
+    "mp3_file": "rain.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "rainbow",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "名詞",
+    "Chinese": "彩虹",
+    "remarks": null,
+    "mp3_file": "rainbow.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "rainy",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "形容詞",
+    "Chinese": "下雨的/多雨的",
+    "remarks": null,
+    "mp3_file": "rainy.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "read",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "動詞",
+    "Chinese": "閱讀",
+    "remarks": null,
+    "mp3_file": "read.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "ready",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "準備好的",
+    "remarks": null,
+    "mp3_file": "ready.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "really",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "真正地",
+    "remarks": null,
+    "mp3_file": "really.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "red",
+    "category_E": "Colors",
+    "category_C": "顏色",
+    "POS": "形容詞",
+    "Chinese": "紅色的",
+    "remarks": null,
+    "mp3_file": "red.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "refrigerator",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "電冰箱 (= fridge)",
+    "remarks": "非GEPT初級",
+    "mp3_file": "refrigerator.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "restaurant",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "餐廳",
+    "remarks": null,
+    "mp3_file": "restaurant.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "restroom",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "洗手間、廁所",
+    "remarks": null,
+    "mp3_file": "rest_room.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "rice",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "米飯",
+    "remarks": null,
+    "mp3_file": "rice.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "ride",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "動詞",
+    "Chinese": "騎（機車、腳踏車等）",
+    "remarks": null,
+    "mp3_file": "ride.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "right",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "對的",
+    "remarks": null,
+    "mp3_file": "right.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "right",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "形容詞, 副詞",
+    "Chinese": "右邊",
+    "remarks": null,
+    "mp3_file": "right.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "river",
+    "category_E": "Geographical terms",
+    "category_C": "地理名詞",
+    "POS": "名詞",
+    "Chinese": "河流",
+    "remarks": null,
+    "mp3_file": "river.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "robot",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "機器人",
+    "remarks": null,
+    "mp3_file": "robot.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "ruler",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "尺",
+    "remarks": null,
+    "mp3_file": "ruler.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "run",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "動詞",
+    "Chinese": "跑、跑步",
+    "remarks": null,
+    "mp3_file": "run.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sad",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "傷心的、難過的",
+    "remarks": null,
+    "mp3_file": "sad.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "salad",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "沙拉",
+    "remarks": null,
+    "mp3_file": "salad.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sale",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "拍賣、特價",
+    "remarks": null,
+    "mp3_file": "sale.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "sandwich",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "三明治",
+    "remarks": null,
+    "mp3_file": "sandwich.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Saturday",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "星期六",
+    "remarks": null,
+    "mp3_file": "saturday.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "say",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "動詞",
+    "Chinese": "說",
+    "remarks": null,
+    "mp3_file": "say.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "school",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "學校",
+    "remarks": null,
+    "mp3_file": "school.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "science",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "科學",
+    "remarks": null,
+    "mp3_file": "science.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "scooter",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "名詞",
+    "Chinese": "輕型機車",
+    "remarks": null,
+    "mp3_file": "scooter.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sea",
+    "category_E": "Geographical terms",
+    "category_C": "地理名詞",
+    "POS": "名詞",
+    "Chinese": "大海",
+    "remarks": null,
+    "mp3_file": "sea.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "season",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "季節",
+    "remarks": null,
+    "mp3_file": "season.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "second",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "第二",
+    "remarks": null,
+    "mp3_file": "second.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "see",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "看見",
+    "remarks": null,
+    "mp3_file": "see.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "September",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "九月",
+    "remarks": null,
+    "mp3_file": "september.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "seven",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "七",
+    "remarks": null,
+    "mp3_file": "seven.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "seventeen",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "十七",
+    "remarks": null,
+    "mp3_file": "seventeen.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "seventy",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "七十",
+    "remarks": null,
+    "mp3_file": "seventy.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "she",
+    "category_E": "Pronouns",
+    "category_C": "代名詞",
+    "POS": "代名詞",
+    "Chinese": "她",
+    "remarks": null,
+    "mp3_file": "she.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "sheep",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "綿羊",
+    "remarks": null,
+    "mp3_file": "sheep.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "shelf",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "架子",
+    "remarks": "非1200字表",
+    "mp3_file": "shelf.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "ship",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "名詞",
+    "Chinese": "（大）船",
+    "remarks": null,
+    "mp3_file": "ship.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "shirt",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "襯衫",
+    "remarks": null,
+    "mp3_file": "shirt.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "shoes",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "鞋子",
+    "remarks": null,
+    "mp3_file": "shoes.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "shop",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "商店 (UK; 英式英語)",
+    "remarks": null,
+    "mp3_file": "shop.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "short",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "矮的",
+    "remarks": null,
+    "mp3_file": "short.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "short",
+    "category_E": "Sizes & measurements",
+    "category_C": "尺寸/計量",
+    "POS": "形容詞",
+    "Chinese": "短的",
+    "remarks": null,
+    "mp3_file": "short.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "shorts",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "短褲",
+    "remarks": null,
+    "mp3_file": "shorts.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "show",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "給...看、展示",
+    "remarks": null,
+    "mp3_file": "show.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "shower",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "淋浴",
+    "remarks": "非1200字表",
+    "mp3_file": "shower.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sick",
+    "category_E": "Health",
+    "category_C": "健康",
+    "POS": "形容詞",
+    "Chinese": "生病的",
+    "remarks": null,
+    "mp3_file": "sick.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sing",
+    "category_E": "\"Sports, interests & hobbies\"",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "動詞",
+    "Chinese": "唱歌",
+    "remarks": null,
+    "mp3_file": "sing.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "singer",
+    "category_E": "Occupations",
+    "category_C": "工作",
+    "POS": "名詞",
+    "Chinese": "歌手",
+    "remarks": null,
+    "mp3_file": "singer.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sister",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "姐姐、妹妹",
+    "remarks": null,
+    "mp3_file": "sister.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sit",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "坐下",
+    "remarks": null,
+    "mp3_file": "sit.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "six",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "六",
+    "remarks": null,
+    "mp3_file": "six.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sixteen",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "十六",
+    "remarks": null,
+    "mp3_file": "sixteen.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sixty",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "六十",
+    "remarks": null,
+    "mp3_file": "sixty.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "skirt",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "裙子",
+    "remarks": null,
+    "mp3_file": "skirt.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sky",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "名詞",
+    "Chinese": "天空",
+    "remarks": null,
+    "mp3_file": "sky.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sleep",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "睡覺",
+    "remarks": null,
+    "mp3_file": "sleep.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "slow",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "形容詞",
+    "Chinese": "慢的",
+    "remarks": null,
+    "mp3_file": "slow.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "small",
+    "category_E": "Sizes & measurements",
+    "category_C": "尺寸/計量",
+    "POS": "形容詞",
+    "Chinese": "小的",
+    "remarks": null,
+    "mp3_file": "small.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "smart",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "聰明的",
+    "remarks": null,
+    "mp3_file": "smart.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "smell",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "聞起來",
+    "remarks": null,
+    "mp3_file": "smell.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "snake",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "蛇",
+    "remarks": null,
+    "mp3_file": "snake.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "snow",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "名詞",
+    "Chinese": "雪",
+    "remarks": null,
+    "mp3_file": "snow.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "snow",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "動詞",
+    "Chinese": "下雪",
+    "remarks": null,
+    "mp3_file": "snow.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "so",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "所以",
+    "remarks": null,
+    "mp3_file": "so.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "soccer",
+    "category_E": "\"Sports, interests & hobbies\"",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "名詞",
+    "Chinese": "足球 (US; 美式英語)",
+    "remarks": null,
+    "mp3_file": "soccer.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "socks",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "襪子",
+    "remarks": null,
+    "mp3_file": "socks.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sofa",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "沙發",
+    "remarks": null,
+    "mp3_file": "sofa.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "soldier",
+    "category_E": "Occupations",
+    "category_C": "工作",
+    "POS": "名詞",
+    "Chinese": "軍人",
+    "remarks": null,
+    "mp3_file": "soldier.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "some",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "限定詞",
+    "Chinese": "一些",
+    "remarks": null,
+    "mp3_file": "some.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sometimes",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "有時候",
+    "remarks": null,
+    "mp3_file": "sometimes.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "son",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "兒子",
+    "remarks": null,
+    "mp3_file": "son.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "song",
+    "category_E": "\"Sports, interests & hobbies\"",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "名詞",
+    "Chinese": "歌曲",
+    "remarks": null,
+    "mp3_file": "song.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sorry",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "感到抱歉的、對不起",
+    "remarks": null,
+    "mp3_file": "sorry.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "soup",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "湯",
+    "remarks": null,
+    "mp3_file": "soup.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "speak",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "動詞",
+    "Chinese": "說",
+    "remarks": null,
+    "mp3_file": "speak.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "spell",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "動詞",
+    "Chinese": "拼寫、用字母拼",
+    "remarks": null,
+    "mp3_file": "spell.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "spider",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "蜘蛛",
+    "remarks": null,
+    "mp3_file": "spider.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "spoon",
+    "category_E": "Tableware",
+    "category_C": "餐具",
+    "POS": "名詞",
+    "Chinese": "湯匙",
+    "remarks": null,
+    "mp3_file": "spoon.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sport",
+    "category_E": "\"Sports, interests & hobbies\"",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "名詞",
+    "Chinese": "運動",
+    "remarks": null,
+    "mp3_file": "sport.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "spring",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "春天",
+    "remarks": null,
+    "mp3_file": "spring.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "stand",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "站、站立",
+    "remarks": null,
+    "mp3_file": "stand.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "star",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "名詞",
+    "Chinese": "星星",
+    "remarks": null,
+    "mp3_file": "star.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "start",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "開始",
+    "remarks": null,
+    "mp3_file": "start.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "station",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "名詞",
+    "Chinese": "車站",
+    "remarks": null,
+    "mp3_file": "station.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "still",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "仍然",
+    "remarks": null,
+    "mp3_file": "still.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "stop",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "停下來",
+    "remarks": null,
+    "mp3_file": "stop.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "store",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "商店 (US; 美式英語)",
+    "remarks": null,
+    "mp3_file": "store.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "story",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "故事",
+    "remarks": null,
+    "mp3_file": "story.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "strawberry",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "草莓",
+    "remarks": null,
+    "mp3_file": "strawberry.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "street",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "街道",
+    "remarks": null,
+    "mp3_file": "street.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "strong",
+    "category_E": "Health",
+    "category_C": "健康",
+    "POS": "形容詞",
+    "Chinese": "強壯的",
+    "remarks": null,
+    "mp3_file": "strong.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "student",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "學生",
+    "remarks": null,
+    "mp3_file": "student.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "study",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "動詞",
+    "Chinese": "學習",
+    "remarks": null,
+    "mp3_file": "study.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "summer",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "夏天",
+    "remarks": null,
+    "mp3_file": "summer.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sun",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "名詞",
+    "Chinese": "太陽",
+    "remarks": null,
+    "mp3_file": "sun.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Sunday",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "星期日",
+    "remarks": null,
+    "mp3_file": "sunday.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sunny",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "形容詞",
+    "Chinese": "晴朗的、出太陽的",
+    "remarks": null,
+    "mp3_file": "sunny.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "supermarket",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "超級市場",
+    "remarks": null,
+    "mp3_file": "supermarket.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sure",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "確定的",
+    "remarks": null,
+    "mp3_file": "sure.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "sure",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "當然",
+    "remarks": null,
+    "mp3_file": "sure.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "sweater",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "毛衣",
+    "remarks": null,
+    "mp3_file": "sweater.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sweep",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "動詞",
+    "Chinese": "掃",
+    "remarks": null,
+    "mp3_file": "sweep.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "sweet",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "形容詞",
+    "Chinese": "甜的",
+    "remarks": null,
+    "mp3_file": "sweet.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "swim",
+    "category_E": "\"Sports, interests & hobbies\"",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "動詞",
+    "Chinese": "游泳",
+    "remarks": null,
+    "mp3_file": "swim.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "table",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "桌子",
+    "remarks": null,
+    "mp3_file": "table.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Taiwan",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "臺灣",
+    "remarks": null,
+    "mp3_file": "Taiwan.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "take",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "攜帶、拿取",
+    "remarks": null,
+    "mp3_file": "take.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "talk",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "動詞",
+    "Chinese": "說話、談話",
+    "remarks": null,
+    "mp3_file": "talk.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "tall",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "高的",
+    "remarks": null,
+    "mp3_file": "tall.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "taste",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "動詞",
+    "Chinese": "嚐起來",
+    "remarks": null,
+    "mp3_file": "taste.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "taxi",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "名詞",
+    "Chinese": "計程車",
+    "remarks": null,
+    "mp3_file": "taxi.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "tea",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "茶",
+    "remarks": null,
+    "mp3_file": "tea.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "teacher",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "老師",
+    "remarks": null,
+    "mp3_file": "teacher.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "teeth",
+    "category_E": "Parts of body",
+    "category_C": "身體部位",
+    "POS": "名詞",
+    "Chinese": "牙齒 (複數)",
+    "remarks": null,
+    "mp3_file": "teeth.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "telephone",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "電話",
+    "remarks": null,
+    "mp3_file": "telephone.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "television",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "電視 (= TV)",
+    "remarks": null,
+    "mp3_file": "television.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "tell",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "告訴、告知",
+    "remarks": null,
+    "mp3_file": "tell.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "ten",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "十",
+    "remarks": null,
+    "mp3_file": "ten.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "test",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "考試",
+    "remarks": null,
+    "mp3_file": "test.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "than",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "比",
+    "remarks": null,
+    "mp3_file": "than.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "thank",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "感謝（某人）",
+    "remarks": null,
+    "mp3_file": "thank.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "that",
+    "category_E": "Articles & determiners",
+    "category_C": "冠詞/限定詞",
+    "POS": "限定詞",
+    "Chinese": "那個",
+    "remarks": null,
+    "mp3_file": "that.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "the",
+    "category_E": "Articles & determiners",
+    "category_C": "冠詞/限定詞",
+    "POS": "冠詞",
+    "Chinese": "這",
+    "remarks": null,
+    "mp3_file": "the.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "their",
+    "category_E": "Articles & determiners",
+    "category_C": "冠詞/限定詞",
+    "POS": "限定詞",
+    "Chinese": "他們的",
+    "remarks": null,
+    "mp3_file": "their.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "them",
+    "category_E": "Pronouns",
+    "category_C": "代名詞",
+    "POS": "代名詞",
+    "Chinese": "他們(受詞)",
+    "remarks": null,
+    "mp3_file": "them.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "then",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "然後、接著",
+    "remarks": null,
+    "mp3_file": "then.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "there",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "副詞",
+    "Chinese": "那裡",
+    "remarks": null,
+    "mp3_file": "there.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "these",
+    "category_E": "Articles & determiners",
+    "category_C": "冠詞/限定詞",
+    "POS": "限定詞",
+    "Chinese": "這些",
+    "remarks": null,
+    "mp3_file": "these.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "they",
+    "category_E": "Pronouns",
+    "category_C": "代名詞",
+    "POS": "代名詞",
+    "Chinese": "他們",
+    "remarks": null,
+    "mp3_file": "they.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "thin",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "瘦的",
+    "remarks": null,
+    "mp3_file": "thin.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "thing",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "東西、物",
+    "remarks": null,
+    "mp3_file": "thing.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "third",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "第三",
+    "remarks": null,
+    "mp3_file": "third.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "thirsty",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "形容詞",
+    "Chinese": "口渴的",
+    "remarks": null,
+    "mp3_file": "thirsty.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "thirteen",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "十三",
+    "remarks": null,
+    "mp3_file": "thirteen.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "thirty",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "三十",
+    "remarks": null,
+    "mp3_file": "thirty.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "this",
+    "category_E": "Articles & determiners",
+    "category_C": "冠詞/限定詞",
+    "POS": "限定詞",
+    "Chinese": "這個",
+    "remarks": null,
+    "mp3_file": "this.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "those",
+    "category_E": "Articles & determiners",
+    "category_C": "冠詞/限定詞",
+    "POS": "限定詞",
+    "Chinese": "那些",
+    "remarks": null,
+    "mp3_file": "those.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "three",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "三",
+    "remarks": null,
+    "mp3_file": "three.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Thursday",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "星期四",
+    "remarks": null,
+    "mp3_file": "thursday.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "ticket",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "票",
+    "remarks": null,
+    "mp3_file": "ticket.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "tiger",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "老虎",
+    "remarks": null,
+    "mp3_file": "tiger.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "time",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "時間",
+    "remarks": null,
+    "mp3_file": "time.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "tired",
+    "category_E": "Health",
+    "category_C": "健康",
+    "POS": "形容詞",
+    "Chinese": "疲累的",
+    "remarks": null,
+    "mp3_file": "tired.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "to",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "向、朝、對著",
+    "remarks": null,
+    "mp3_file": "to.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "today",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "今天",
+    "remarks": null,
+    "mp3_file": "today.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "together",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "一起",
+    "remarks": null,
+    "mp3_file": "together.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "tomorrow",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "明天",
+    "remarks": null,
+    "mp3_file": "tomorrow.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "too",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "1. 也；2. 太...",
+    "remarks": null,
+    "mp3_file": "too.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "tooth",
+    "category_E": "Parts of body",
+    "category_C": "身體部位",
+    "POS": "名詞",
+    "Chinese": "牙齒",
+    "remarks": null,
+    "mp3_file": "tooth.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "toothache",
+    "category_E": "Health",
+    "category_C": "健康",
+    "POS": "名詞",
+    "Chinese": "牙痛",
+    "remarks": "非1200字表",
+    "mp3_file": "toothache.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "touch",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "觸碰",
+    "remarks": null,
+    "mp3_file": "touch.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "towel",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "毛巾",
+    "remarks": null,
+    "mp3_file": "towel.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "toy",
+    "category_E": "\"Sports, interests & hobbies\"",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "名詞",
+    "Chinese": "玩具",
+    "remarks": null,
+    "mp3_file": "toy.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "train",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "名詞",
+    "Chinese": "火車",
+    "remarks": null,
+    "mp3_file": "train.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "trash",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "垃圾",
+    "remarks": null,
+    "mp3_file": "trash.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "tree",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "樹",
+    "remarks": null,
+    "mp3_file": "tree.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "trip",
+    "category_E": "\"Sports, interests & hobbies\"",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "名詞",
+    "Chinese": "（短程的）旅行",
+    "remarks": null,
+    "mp3_file": "trip.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "truck",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "名詞",
+    "Chinese": "卡車",
+    "remarks": null,
+    "mp3_file": "truck.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "try",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "嘗試",
+    "remarks": null,
+    "mp3_file": "try.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "T-shirt",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "T 恤",
+    "remarks": null,
+    "mp3_file": "tee_shirt.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Tuesday",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "星期二",
+    "remarks": null,
+    "mp3_file": "tuesday.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "turn",
+    "category_E": "Transportation",
+    "category_C": "運輸",
+    "POS": "動詞",
+    "Chinese": "轉彎",
+    "remarks": null,
+    "mp3_file": "turn.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "turtle",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "烏龜",
+    "remarks": null,
+    "mp3_file": "turtle.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "TV",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "電視 (= television)",
+    "remarks": null,
+    "mp3_file": "tv.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "twelve",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "十二",
+    "remarks": null,
+    "mp3_file": "twelve.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "twenty",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "二十",
+    "remarks": null,
+    "mp3_file": "twenty.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "two",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "二",
+    "remarks": null,
+    "mp3_file": "two.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "typhoon",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "名詞",
+    "Chinese": "颱風",
+    "remarks": null,
+    "mp3_file": "typhoon.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "UK",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "英國",
+    "remarks": null,
+    "mp3_file": "UK.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "umbrella",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "名詞",
+    "Chinese": "傘",
+    "remarks": null,
+    "mp3_file": "umbrella.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "uncle",
+    "category_E": "Family",
+    "category_C": "家庭",
+    "POS": "名詞",
+    "Chinese": "叔叔、舅舅、姑丈、姨丈",
+    "remarks": null,
+    "mp3_file": "uncle.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "under",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "在...下方",
+    "remarks": null,
+    "mp3_file": "under.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "up",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "向上",
+    "remarks": null,
+    "mp3_file": "up.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "us",
+    "category_E": "Pronouns",
+    "category_C": "代名詞",
+    "POS": "代名詞",
+    "Chinese": "我們(受詞)",
+    "remarks": null,
+    "mp3_file": "us.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "USA",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "美國",
+    "remarks": null,
+    "mp3_file": "USA.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "usually",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "通常",
+    "remarks": null,
+    "mp3_file": "usually.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "vacation",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "名詞",
+    "Chinese": "假期",
+    "remarks": null,
+    "mp3_file": "vacation.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "very",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "非常",
+    "remarks": null,
+    "mp3_file": "very.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "wait",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "等、等待",
+    "remarks": null,
+    "mp3_file": "wait.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "waiter",
+    "category_E": "Occupations",
+    "category_C": "工作",
+    "POS": "名詞",
+    "Chinese": "男服務生",
+    "remarks": null,
+    "mp3_file": "waiter.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "waitress",
+    "category_E": "Occupations",
+    "category_C": "工作",
+    "POS": "名詞",
+    "Chinese": "女服務生",
+    "remarks": null,
+    "mp3_file": "waitress.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "wake",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "醒來、喚醒",
+    "remarks": null,
+    "mp3_file": "wake.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "walk",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "走路",
+    "remarks": null,
+    "mp3_file": "walk.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "wall",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "牆壁",
+    "remarks": null,
+    "mp3_file": "wall.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "want",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "想要",
+    "remarks": null,
+    "mp3_file": "want.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "warm",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "形容詞",
+    "Chinese": "溫暖的",
+    "remarks": null,
+    "mp3_file": "warm.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "wash",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "動詞",
+    "Chinese": "洗",
+    "remarks": null,
+    "mp3_file": "wash.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "watch",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "手錶",
+    "remarks": null,
+    "mp3_file": "watch.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "watch",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "看",
+    "remarks": null,
+    "mp3_file": "watch.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "water",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "水",
+    "remarks": null,
+    "mp3_file": "water.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "watermelon",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "名詞",
+    "Chinese": "西瓜",
+    "remarks": null,
+    "mp3_file": "watermelon.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "way",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "路、方向",
+    "remarks": null,
+    "mp3_file": "way.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "we",
+    "category_E": "Pronouns",
+    "category_C": "代名詞",
+    "POS": "代名詞",
+    "Chinese": "我們",
+    "remarks": null,
+    "mp3_file": "we.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "wear",
+    "category_E": "Clothing & accessories",
+    "category_C": "衣服/配件",
+    "POS": "動詞",
+    "Chinese": "穿、戴",
+    "remarks": null,
+    "mp3_file": "wear.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "weather",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "名詞",
+    "Chinese": "天氣",
+    "remarks": null,
+    "mp3_file": "weather.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "Wednesday",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "星期三",
+    "remarks": null,
+    "mp3_file": "wednesday.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "week",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "星期",
+    "remarks": null,
+    "mp3_file": "week.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "welcome",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "歡迎",
+    "remarks": null,
+    "mp3_file": "welcome.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "well",
+    "category_E": "Health",
+    "category_C": "健康",
+    "POS": "形容詞, 副詞",
+    "Chinese": "好的, 健康地",
+    "remarks": null,
+    "mp3_file": "well.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "wet",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "形容詞",
+    "Chinese": "潮濕的",
+    "remarks": null,
+    "mp3_file": "wet.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "wet",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "濕的",
+    "remarks": null,
+    "mp3_file": "wet.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "whale",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "鯨魚",
+    "remarks": null,
+    "mp3_file": "whale.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "what",
+    "category_E": "Wh-words",
+    "category_C": "疑問詞",
+    "POS": "代名詞",
+    "Chinese": "什麼...",
+    "remarks": null,
+    "mp3_file": "what.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "when",
+    "category_E": "Wh-words",
+    "category_C": "疑問詞",
+    "POS": "副詞",
+    "Chinese": "何時...",
+    "remarks": null,
+    "mp3_file": "when.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "where",
+    "category_E": "Wh-words",
+    "category_C": "疑問詞",
+    "POS": "副詞",
+    "Chinese": "在哪裡...",
+    "remarks": null,
+    "mp3_file": "where.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "which",
+    "category_E": "Wh-words",
+    "category_C": "疑問詞",
+    "POS": "限定詞",
+    "Chinese": "哪一個...",
+    "remarks": null,
+    "mp3_file": "which.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "white",
+    "category_E": "Colors",
+    "category_C": "顏色",
+    "POS": "形容詞",
+    "Chinese": "白色的",
+    "remarks": null,
+    "mp3_file": "white.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "who",
+    "category_E": "Wh-words",
+    "category_C": "疑問詞",
+    "POS": "代名詞",
+    "Chinese": "誰...",
+    "remarks": null,
+    "mp3_file": "who.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "whose",
+    "category_E": "Wh-words",
+    "category_C": "疑問詞",
+    "POS": "限定詞",
+    "Chinese": "誰的...",
+    "remarks": null,
+    "mp3_file": "whose.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "why",
+    "category_E": "Wh-words",
+    "category_C": "疑問詞",
+    "POS": "副詞",
+    "Chinese": "為什麼...",
+    "remarks": null,
+    "mp3_file": "why.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "will",
+    "category_E": "Be & auxiliaries",
+    "category_C": "be動詞/助動詞",
+    "POS": "助動詞",
+    "Chinese": "將會",
+    "remarks": null,
+    "mp3_file": "will.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "win",
+    "category_E": "\"Sports, interests & hobbies\"",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "動詞",
+    "Chinese": "贏",
+    "remarks": null,
+    "mp3_file": "win.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "wind",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "名詞",
+    "Chinese": "風",
+    "remarks": null,
+    "mp3_file": "wind.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "window",
+    "category_E": "Houses & apartments",
+    "category_C": "房子/公寓",
+    "POS": "名詞",
+    "Chinese": "窗戶",
+    "remarks": null,
+    "mp3_file": "window.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "windy",
+    "category_E": "Weather & nature",
+    "category_C": "天氣/自然",
+    "POS": "形容詞",
+    "Chinese": "風大的",
+    "remarks": null,
+    "mp3_file": "windy.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "winter",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "冬天",
+    "remarks": null,
+    "mp3_file": "winter.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "with",
+    "category_E": "Prepositions",
+    "category_C": "介系詞",
+    "POS": "介系詞",
+    "Chinese": "和...一起",
+    "remarks": null,
+    "mp3_file": "with.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "woman",
+    "category_E": "People",
+    "category_C": "人",
+    "POS": "名詞",
+    "Chinese": "女人",
+    "remarks": null,
+    "mp3_file": "woman.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "women",
+    "category_E": "People",
+    "category_C": "人",
+    "POS": "名詞",
+    "Chinese": "女人 (複數)",
+    "remarks": null,
+    "mp3_file": "women.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "wonderful",
+    "category_E": "Other adjectives",
+    "category_C": "其他形容詞",
+    "POS": "形容詞",
+    "Chinese": "很棒的、精彩的",
+    "remarks": null,
+    "mp3_file": "wonderful.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "word",
+    "category_E": "Other nouns",
+    "category_C": "其他名詞",
+    "POS": "名詞",
+    "Chinese": "字",
+    "remarks": null,
+    "mp3_file": "word.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "work",
+    "category_E": "Occupations",
+    "category_C": "工作",
+    "POS": "名詞",
+    "Chinese": "工作",
+    "remarks": null,
+    "mp3_file": "work.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "worker",
+    "category_E": "Occupations",
+    "category_C": "工作",
+    "POS": "名詞",
+    "Chinese": "工作者",
+    "remarks": null,
+    "mp3_file": "worker.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "worry",
+    "category_E": "Other verbs",
+    "category_C": "其他動詞",
+    "POS": "動詞",
+    "Chinese": "擔心",
+    "remarks": null,
+    "mp3_file": "worry.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "write",
+    "category_E": "School",
+    "category_C": "學校",
+    "POS": "動詞",
+    "Chinese": "寫",
+    "remarks": null,
+    "mp3_file": "write.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "year",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "年",
+    "remarks": null,
+    "mp3_file": "year.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "yellow",
+    "category_E": "Colors",
+    "category_C": "顏色",
+    "POS": "形容詞",
+    "Chinese": "黃色的",
+    "remarks": null,
+    "mp3_file": "yellow.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "yes",
+    "category_E": "Other adverbs",
+    "category_C": "其他副詞",
+    "POS": "副詞",
+    "Chinese": "是",
+    "remarks": null,
+    "mp3_file": "yes.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "yesterday",
+    "category_E": "Time",
+    "category_C": "時間",
+    "POS": "名詞",
+    "Chinese": "昨天",
+    "remarks": null,
+    "mp3_file": "yesterday.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "you",
+    "category_E": "Pronouns",
+    "category_C": "代名詞",
+    "POS": "代名詞",
+    "Chinese": "你；你們",
+    "remarks": null,
+    "mp3_file": "you.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "young",
+    "category_E": "Personal characteristics",
+    "category_C": "個性/特點",
+    "POS": "形容詞",
+    "Chinese": "年輕的",
+    "remarks": null,
+    "mp3_file": "young.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "your",
+    "category_E": "Articles & determiners",
+    "category_C": "冠詞/限定詞",
+    "POS": "限定詞",
+    "Chinese": "你的、你們的",
+    "remarks": null,
+    "mp3_file": "your.mp3",
+    "category_type": "2"
+  },
+  {
+    "voc": "yo-yo",
+    "category_E": "Sports, interests & hobbies",
+    "category_C": "運動/興趣/嗜好",
+    "POS": "名詞",
+    "Chinese": "溜溜球",
+    "remarks": null,
+    "mp3_file": "yo_yo.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "yummy",
+    "category_E": "Food & drink",
+    "category_C": "食物/飲料",
+    "POS": "形容詞",
+    "Chinese": "好吃的、美味的",
+    "remarks": null,
+    "mp3_file": "yummy.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "zebra",
+    "category_E": "Animals & insects",
+    "category_C": "動物/昆蟲",
+    "POS": "名詞",
+    "Chinese": "斑馬",
+    "remarks": null,
+    "mp3_file": "zebra.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "zero",
+    "category_E": "Numbers",
+    "category_C": "數字",
+    "POS": "數字",
+    "Chinese": "零",
+    "remarks": null,
+    "mp3_file": "zero.mp3",
+    "category_type": "1"
+  },
+  {
+    "voc": "zoo",
+    "category_E": "Places & directions",
+    "category_C": "地點/方位",
+    "POS": "名詞",
+    "Chinese": "動物園",
+    "remarks": null,
+    "mp3_file": "zoo.mp3",
+    "category_type": "1"
+  }
+]
