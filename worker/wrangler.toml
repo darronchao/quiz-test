@@ -1,15 +1,11 @@
-name = "ipas-quiz-sync"
+name = "quiz-test-sync"
 main = "src/index.js"
 compatibility_date = "2026-06-01"
 
-# 部署前先建 D1 並把 database_id 填進來:
-#   npx wrangler d1 create ipas-quiz-sync
-#   npx wrangler d1 execute ipas-quiz-sync --remote --file schema.sql
-# 然後 npx wrangler deploy
 [[d1_databases]]
 binding = "DB"
-database_name = "ipas-quiz-sync"
-database_id = "a861f54c-1a47-4ede-9910-bd38bb8f5f4d"
+database_name = "quiz-test-sync"
+database_id = "71a23a42-201a-42ac-94c4-baba96eeaa2f"
 
 # 每小時整點跑,檢查誰到提醒時間且今天還沒練
 [triggers]
@@ -23,6 +19,6 @@ namespace_id = "1001"
 simple = { limit = 60, period = 60 }
 
 [vars]
-VAPID_PUBLIC = "BNn4Lwq818aHx8cb0LrcQ6IpRgHb9B3P_BOqusct-uFyJPQ4hlDrIOirliHoNdbbg5tg8zWfzBg5SZ0yBhRq7zA"
-ADMIN_CONTACT = "mailto:yazelin@ching-tech.com"
+VAPID_PUBLIC = "BB9u8wFjV8VQXm6hEQy-sLKc0PuQl3dPTJ68EPVoI_qmq_47hmO9swD0l03Cakcw0Rzeo0-fjhZY4E2WikV16uk"
+ADMIN_CONTACT = "mailto:darronchao@gmail.com"
 # 私鑰用 secret:wrangler secret put VAPID_PRIVATE

@@ -1,9 +1,8 @@
 import { nextBox, isMastered, scoreExam, progressStats, wrongQuestionIds, toMarkdown, reviewPriority, guessLevel, nextExam, MASTER_BOX } from './core.js';
 
 const STORE_KEY = 'quiz-test_progress';
-// 部署 Cloudflare Worker 後填入，例如 'https://ipas-quiz-sync.你的帳號.workers.dev'。留空=只用本機。
-const SYNC_URL = ''; // 要跨裝置同步再填自己的 Worker 網址,留空則同步與推播自動停用
-const VAPID_PUBLIC = 'BNn4Lwq818aHx8cb0LrcQ6IpRgHb9B3P_BOqusct-uFyJPQ4hlDrIOirliHoNdbbg5tg8zWfzBg5SZ0yBhRq7zA';
+const SYNC_URL = 'https://quiz-test-sync.darronchao.workers.dev';
+const VAPID_PUBLIC = 'BB9u8wFjV8VQXm6hEQy-sLKc0PuQl3dPTJ68EPVoI_qmq_47hmO9swD0l03Cakcw0Rzeo0-fjhZY4E2WikV16uk';
 const $ = (sel) => document.querySelector(sel);
 const view = $('#view');
 
