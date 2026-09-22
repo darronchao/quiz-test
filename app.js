@@ -200,6 +200,44 @@ async function ensureFreshCode() {
 const subjects = () => [...new Set(DATA.questions.map((q) => q.subject))];
 const papers = () => [...new Set(DATA.questions.map((q) => `${q.level}｜${q.round}｜${q.subject}`))];
 const esc = (s) => String(s).replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
+
+// 注音字典：涵蓋題目敘述常用字、詞性及國小基礎字
+const ZHUYIN_DICT = {
+  '英': 'ㄧㄥ', '文': 'ㄨㄣˊ', '單': 'ㄉㄢ', '字': 'ㄗˋ',
+  '的': '˙ㄉㄜ', '中': 'ㄓㄨㄥ', '意': 'ㄧˋ', '思': 'ㄙ˙',
+  '是': 'ㄕˋ', '什': 'ㄕㄣˊ', '麼': '˙ㄇㄜ',
+  '名': 'ㄇㄧㄥˊ', '詞': 'ㄘˊ', '動': 'ㄉㄨㄥˋ', '形': 'ㄒㄧㄥˊ',
+  '容': 'ㄖㄨㄥˊ', '副': 'ㄈㄨˋ', '代': 'ㄉㄞˋ', '介': 'ㄐㄧㄝˋ',
+  '系': 'ㄒㄧˋ', '連': 'ㄌㄧㄢˊ', '接': 'ㄐㄧㄝ', '感': 'ㄍㄢˇ',
+  '嘆': 'ㄊㄢˋ', '冠': 'ㄍㄨㄢˋ', '限': 'ㄒㄧㄢˋ', '定': 'ㄉㄧㄥˋ',
+  '助': 'ㄓㄨˋ',
+  '請': 'ㄑㄧㄥˇ', '問': 'ㄨㄣˋ', '下': 'ㄒㄧㄚˋ', '列': 'ㄌㄧㄝˋ',
+  '哪': 'ㄋㄚˇ', '一': 'ㄧ', '個': '˙ㄍㄜ', '為': 'ㄨㄟˊ',
+  '何': 'ㄏㄜˊ', '最': 'ㄗㄨㄟˋ', '符': 'ㄈㄨˊ', '合': 'ㄏㄜˊ',
+  '正': 'ㄓㄥˋ', '確': 'ㄑㄩㄝˋ', '錯': 'ㄘㄨㄛˋ', '誤': 'ㄨˋ',
+  '選': 'ㄒㄩㄢˇ', '項': 'ㄒㄧㄤˋ', '答': 'ㄉㄚˊ', '案': 'ㄢˋ',
+  '解': 'ㄐㄧㄝˇ', '析': 'ㄒㄧ', '備': 'ㄅㄟˋ', '註': 'ㄓㄨˋ',
+  '人': 'ㄖㄣˊ', '男': 'ㄋㄢˊ', '女': 'ㄋㄩˇ', '孩': 'ㄏㄞˊ', '童': 'ㄊㄨㄥˊ',
+  '爸': 'ㄅㄚˋ', '媽': 'ㄇㄚ', '哥': 'ㄍㄜ', '弟': 'ㄉㄧˋ', '姐': 'ㄐㄧㄝˇ',
+  '妹': 'ㄇㄟˋ', '朋': 'ㄆㄥˊ', '友': 'ㄧㄡˇ', '老': 'ㄌㄠˇ', '師': 'ㄕ',
+  '生': 'ㄕㄥ', '醫': 'ㄧ', '員': 'ㄩㄢˊ', '工': 'ㄍㄨㄥ', '作': 'ㄗㄨㄛˋ',
+  '大': 'ㄉㄚˋ', '小': 'ㄒㄧㄠˇ', '長': 'ㄔㄤˊ', '短': 'ㄉㄨㄢˇ', '高': 'ㄍㄠ',
+  '矮': 'ㄞˇ', '好': 'ㄏㄠˇ', '壞': 'ㄏㄨㄞˋ', '快': 'ㄎㄨㄞˋ', '慢': 'ㄇㄢˋ',
+  '吃': 'ㄔ', '喝': 'ㄏㄜ', '看': 'ㄎㄢˋ', '聽': 'ㄊㄧㄥ', '說': 'ㄕㄨㄛ',
+  '讀': 'ㄉㄨˊ', '寫': 'ㄒㄧㄝˇ', '跑': 'ㄆㄠˇ', '跳': 'ㄊㄧㄠˋ', '玩': 'ㄨㄢˊ',
+  '飛': 'ㄈㄟ', '機': 'ㄐㄧ', '車': 'ㄔㄜ', '船': 'ㄔㄨㄢˊ', '門': 'ㄇㄣˊ',
+  '水': 'ㄕㄨㄟˇ', '果': 'ㄍㄨㄛˇ', '紅': 'ㄏㄨㄥˊ', '藍': 'ㄌㄢˊ', '綠': 'ㄌㄩˋ',
+  '黃': 'ㄏㄨㄤˊ', '黑': 'ㄏㄟ', '白': 'ㄅㄞˊ', '天': 'ㄊㄧㄢ', '地': 'ㄉㄧˋ'
+};
+
+const isZhuyinOn = () => !store.settings || store.settings.zhuyin !== false;
+function withZhuyin(str) {
+  if (!isZhuyinOn()) return esc(str);
+  return esc(str).replace(/[\u4e00-\u9fff]/g, (ch) => {
+    const zy = ZHUYIN_DICT[ch];
+    return zy ? `<ruby>${ch}<rt>${zy}</rt></ruby>` : ch;
+  });
+}
 // 解析顯示用:在「。/；後面的 (A)-(D) 選項分析」與「記憶點」前斷行並加粗,把長段落變條列(不動資料)
 function formatExp(text) {
   return esc(text)
@@ -432,16 +470,27 @@ function runPractice(pool, opts = {}) {
   const render = () => {
     const q = pool[i];
     const p = qp(q.id);
+    const zyOn = isZhuyinOn();
     view.innerHTML = `
       <section class="card">
         <div class="row"><span class="muted">${i + 1} / ${pool.length}</span>
-          <button class="star ${p.starred ? 'on' : ''}" id="star">${p.starred ? '★ 已標' : '☆ 標記'}</button></div>
+          <span>
+            <button class="zhuyin-toggle ${zyOn ? 'on' : ''}" id="toggle-zy" title="切換注音顯示">ㄅ 注音${zyOn ? '開' : '關'}</button>
+            <button class="star ${p.starred ? 'on' : ''}" id="star">${p.starred ? '★ 已標' : '☆ 標記'}</button>
+          </span>
+        </div>
         <p class="qmeta muted">${esc(q.subject)}${q.topic ? '・' + esc(q.topic) : ''}${q.source === '學習指引' ? ' <span class="src-tag">學習指引範例</span>' : ''}</p>
-        <h3>${esc(q.question)}</h3>
+        <h3 class="q-title">${withZhuyin(q.question)}</h3>
         ${q.image ? `<img class="qfig" src="${esc(q.image)}" alt="題目附圖" loading="lazy">` : ''}
-        <div id="opts">${q.options.map((o, k) => `<button class="opt" data-k="${k}">${esc(o)}</button>`).join('')}</div>
+        <div id="opts">${q.options.map((o, k) => `<button class="opt" data-k="${k}">${withZhuyin(o)}</button>`).join('')}</div>
         <div id="fb"></div>
       </section>`;
+    $('#toggle-zy').onclick = () => {
+      store.settings = store.settings || {};
+      store.settings.zhuyin = !zyOn;
+      save();
+      render();
+    };
     $('#star').onclick = () => { p.starred = !p.starred; save(); render(); };
     view.querySelectorAll('.opt').forEach((btn) =>
       (btn.onclick = () => answer(q, +btn.dataset.k)));
@@ -524,19 +573,31 @@ function runMock(pool, mins) {
 
   const render = () => {
     const q = pool[i];
+    const zyOn = isZhuyinOn();
     view.innerHTML = `
       <section class="card">
-        <div class="row"><span class="muted">${i + 1} / ${pool.length}</span><span id="timer" class="timer">${fmt()}</span></div>
+        <div class="row"><span class="muted">${i + 1} / ${pool.length}</span>
+          <span>
+            <button class="zhuyin-toggle ${zyOn ? 'on' : ''}" id="toggle-zy" title="切換注音顯示">ㄅ 注音${zyOn ? '開' : '關'}</button>
+            <span id="timer" class="timer">${fmt()}</span>
+          </span>
+        </div>
         <p class="qmeta muted">${esc(q.subject)}</p>
-        <h3>${esc(q.question)}</h3>
+        <h3 class="q-title">${withZhuyin(q.question)}</h3>
         ${q.image ? `<img class="qfig" src="${esc(q.image)}" alt="題目附圖" loading="lazy">` : ''}
         <div id="opts">${q.options.map((o, k) =>
-          `<button class="opt ${answers[i] === k ? 'picked' : ''}" data-k="${k}">${esc(o)}</button>`).join('')}</div>
+          `<button class="opt ${answers[i] === k ? 'picked' : ''}" data-k="${k}">${withZhuyin(o)}</button>`).join('')}</div>
         <div class="row">
           <button id="prev" ${i === 0 ? 'disabled' : ''}>上一題</button>
           ${i + 1 < pool.length ? '<button id="next">下一題</button>' : '<button class="primary" id="submit">交卷</button>'}
         </div>
       </section>`;
+    $('#toggle-zy').onclick = () => {
+      store.settings = store.settings || {};
+      store.settings.zhuyin = !zyOn;
+      save();
+      render();
+    };
     // 點選項只切換 picked class,不整卡重 render(否則 #timer 被重建會閃 --:--)
     view.querySelectorAll('.opt').forEach((b) => (b.onclick = () => {
       answers[i] = +b.dataset.k;
@@ -584,7 +645,7 @@ function wrongbook() {
       <h2>錯題本</h2>
       <p class="muted">答錯過、還沒掌握的題會留在這。同一題之後「連續答對 ${MASTER_BOX - 1} 次」就算掌握、自動移出。</p>
       ${ids.length ? `<button class="primary" id="drill">只練這些錯題</button>` : '<p>目前沒有錯題，繼續加油。</p>'}
-      <ul class="wrong">${list.map((q) => `<li>${esc(q.question)} <span class="muted">（${esc(q.subject)}・再連對 ${Math.max(1, MASTER_BOX - (qp(q.id).box || 1))} 次就掌握）</span></li>`).join('')}</ul>
+      <ul class="wrong">${list.map((q) => `<li>${withZhuyin(q.question)} <span class="muted">（${esc(q.subject)}・再連對 ${Math.max(1, MASTER_BOX - (qp(q.id).box || 1))} 次就掌握）</span></li>`).join('')}</ul>
     </section>`;
   if (ids.length) $('#drill').onclick = () => runPractice(shuffle(list));
 }
@@ -604,7 +665,7 @@ function notes() {
         return `<div class="note-item">
           <div class="row"><span class="muted">${p.starred ? '⭐ ' : ''}${esc(q.subject)}</span>
             <button class="goto" data-id="${esc(q.id)}">前往該題</button></div>
-          <p class="qn">${esc(q.question)}</p>
+          <p class="qn">${withZhuyin(q.question)}</p>
           <textarea class="note-edit" data-id="${esc(q.id)}" rows="2" placeholder="寫下你的理解或記憶點…">${esc(p.note || '')}</textarea>
         </div>`;
       }).join('')}
@@ -714,6 +775,12 @@ function settings() {
       </label>
       ${examInfoHtml()}
 
+      <h3>題目注音</h3>
+      <label class="row" style="cursor:pointer;margin:8px 0">
+        <span>題目與選項顯示注音符號（適合國小學童閱讀）</span>
+        <input id="set-zhuyin" type="checkbox" ${isZhuyinOn() ? 'checked' : ''} style="width:auto">
+      </label>
+
       <h3>每日提醒（推播）</h3>
       <p class="muted">到設定時間若今天還沒練，會推播提醒你刷題。iPhone 需先把本站「加到主畫面」，並從安裝後的 App 開啟才收得到。</p>
       <label>提醒時間
@@ -768,6 +835,7 @@ function settings() {
   }
   $('#set-goal').onchange = (e) => { store.settings ||= {}; store.settings.dailyGoal = Math.max(1, +e.target.value || 20); save(); };
   $('#set-exam').onchange = (e) => { store.settings ||= {}; store.settings.examDate = e.target.value; save(); };
+  if ($('#set-zhuyin')) $('#set-zhuyin').onchange = (e) => { store.settings ||= {}; store.settings.zhuyin = e.target.checked; save(); };
   view.querySelectorAll('.exam-pick').forEach((b) => (b.onclick = () => {
     store.settings ||= {}; store.settings.examDate = b.dataset.d; save();
     $('#set-exam').value = b.dataset.d;
