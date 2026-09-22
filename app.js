@@ -239,10 +239,15 @@ function withZhuyin(str) {
 }
 // 解析顯示用:在「。/；後面的 (A)-(D) 選項分析」與「記憶點」前斷行並加粗,把長段落變條列(不動資料)
 function formatExp(text) {
-  return withZhuyin(text)
+  const s = esc(text)
     .replace(/([。；])\s*([(（][A-DＡ-Ｄ][)）])/g, '$1<br>$2')
     .replace(/([。；])\s*(核心記憶點|記憶點)/g, '$1<br>$2')
     .replace(/(^|<br>)\s*(正解\s*[(（][A-DＡ-Ｄ][)）]|[(（][A-DＡ-Ｄ][)）]|核心記憶點|記憶點)/g, '$1<strong>$2</strong>');
+  if (!isZhuyinOn()) return s;
+  return s.replace(/[\u4e00-\u9fff]/g, (ch) => {
+    const zy = ZHUYIN_DICT[ch];
+    return zy ? `<ruby class="zy">${ch}${formatZhuyinRt(zy)}</ruby>` : ch;
+  });
 }
 // 教材對應：指到該題所屬科目的學習指引章節 + 開啟官方 PDF
 function guideLine(q) {
@@ -509,7 +514,7 @@ function runPractice(pool, opts = {}) {
       if (idx === k && !correct) b.classList.add('wrong');
     });
     $('#fb').innerHTML = `
-      <p class="${correct ? 'ok' : 'bad'}">${correct ? '答對' : '答錯'}（正解：${withZhuyin(q.options[q.answer])}）</p>
+      <p class="${correct ? 'ok' : 'bad'}">${withZhuyin(correct ? '答對！' : '答錯！')}（${withZhuyin('正解：' + q.options[q.answer])}）</p>
       ${q.explanation ? `<p class="exp">${formatExp(q.explanation)}</p>` : ''}
       ${guideLine(q)}
       ${reportLink(q)}
@@ -644,7 +649,7 @@ function wrongbook() {
       <h2>錯題本</h2>
       <p class="muted">答錯過、還沒掌握的題會留在這。同一題之後「連續答對 ${MASTER_BOX - 1} 次」就算掌握、自動移出。</p>
       ${ids.length ? `<button class="primary" id="drill">只練這些錯題</button>` : '<p>目前沒有錯題，繼續加油。</p>'}
-      <ul class="wrong">${list.map((q) => `<li>${withZhuyin(q.question)} <span class="muted">（${esc(q.subject)}・再連對 ${Math.max(1, MASTER_BOX - (qp(q.id).box || 1))} 次就掌握）</span></li>`).join('')}</ul>
+      <ul class="wrong">${list.map((q) => `<li>${withZhuyin(q.question)}<br><span class="ok" style="font-size:13px">${withZhuyin('正解：' + q.options[q.answer])}</span> <span class="muted">（${esc(q.subject)}・再連對 ${Math.max(1, MASTER_BOX - (qp(q.id).box || 1))} 次就掌握）</span></li>`).join('')}</ul>
     </section>`;
   if (ids.length) $('#drill').onclick = () => runPractice(shuffle(list));
 }
@@ -665,6 +670,7 @@ function notes() {
           <div class="row"><span class="muted">${p.starred ? '⭐ ' : ''}${esc(q.subject)}</span>
             <button class="goto" data-id="${esc(q.id)}">前往該題</button></div>
           <p class="qn">${withZhuyin(q.question)}</p>
+          <p style="margin:2px 0 6px;font-size:13px" class="ok">${withZhuyin('正解：' + q.options[q.answer])}</p>
           <textarea class="note-edit" data-id="${esc(q.id)}" rows="2" placeholder="寫下你的理解或記憶點…">${esc(p.note || '')}</textarea>
         </div>`;
       }).join('')}
